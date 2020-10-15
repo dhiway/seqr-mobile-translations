@@ -1,90 +1,90 @@
-"Key","Translated Text"
-"Scan","Scan"
-"Settings","Settings"
-"Activity","Activity"
-"seqrByDhiway","SEQR by DHIWAY"
-"noHistoryUseScan","Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here"
-"disableActivityMessage","You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes"
-"onboardTitle0","SEQR is"
-"onboardSubTitle0","Always FREE"
-"onboardDescription0","Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky."
-"onboardTopContent1","Absolute Certainty in everyday transactions!"
-"onboardTitle1","How does it "
-"onboardSubTitle1","WORK?"
-"onboardDescription1","With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
-"onboardCenterContent2","If you find a phishing web link, report it and help us make transactions safer"
-"onboardTitle2","Join the movement for a"
-"onboardSubTitle2","Safer Internet"
-"onboardDescription2","Each time you come across an incorrectly categorized information, please report it to help more people stay safer online."
-"permProceedWithout","Proceeding without access"
-"permSeqrAsk","SEQR needs access to "
-"permDeny","Deny"
-"permAccessCamera","Camera"
-"permCameraReason","to scan QR Codes"
-"permAccessStorage","Storage,"
-"permStorageReason","to read uploaded QR Code images"
-"permAccessLocation","Location"
-"permLocationReason","to remind you of where a QR Code (in activity) was scanned"
-"permGrant","Grant permissions"
-"dBtnWarning","(Not Secure!)"
-"dBtnRisky","(Dangerous!)"
-"dQrContentCopied","Copied QR Content"
-"dTranslatedText","Translated Text"
-"scanNoCameraAccess","No Camera Access"
-"scanNoCameraAccessDetail","Without access to the Camera, SEQR can't scan QR Codes"
-"scanTimeout","Timeout. No QRs Scanned"
-"scanTimeoutText","Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.\n\nKeeping the camera on for long may drain battery.\nOpening the Activity tab."
-"scanQrHint","Find a code to scan"
-"settingAboutSEQR","SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
-"settingSafeAdvisory","Safe Browsing"
-"settingUserAgreement","Terms of Service"
-"settingPrivacyPolicy","Privacy Policy"
-"settingAboutDhiway","About Dhiway"
-"settingLangChange","Select your language"
-"defaultscreentext","Activity as default screen"
-"Historyneedtext","Record Activity"
-"English","English"
-"Kannada","Kannada"
-"Malayalam","Malayalam"
-"Bengali","Bengali"
-"Hindi","Hindi"
-"bookQR","Book ISBN"
-"textQR","The code you scanned contains the following detail"
-"eventLabel","Event"
-"nameLabel","Name"
-"addressLabel","Address"
-"amountLabel","Amount"
-"paymentLabel","Payment"
-"dateLabel","Date"
-"startsAtLabel","Starts at"
-"locationLabel","Location"
-"emailLabel","Email"
-"phoneNumberLbl","Phone number"
-"smsLabel","SMS"
-"recipientLabel","Recipient"
-"textMsgLabel","Text message"
-"composeSmsBtn","Compose text message"
-"addToCalendarBtn","Add to Calendar"
-"callOrganizerBtn","Call Organizer"
-"addLocationBtn","Save Location to Maps"
-"sendEmailBtn","Send Email"
-"qrContent","Payment Link"
-"threatTypeSafe","No Unsafe Content Found."
-"threatTypeNotSecure","Not Secure - Probably Risky"
-"threatTypeUnSafe","Dangerous - Avoid this Site"
-"safeType","Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit."
-"unSafeType","This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend."
-"notSecureType","This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site."
-"typeErrorSiteNotFound","We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. "
-"typeErrorFailure","We're working on getting this fixed as soon as we can. Please try again later."
-"typeErrorNoConnection","No Internet Connection. Check your network settings and try again."
-"modalSafeDetails","Information you send or get through the site is secure.\n\nEven if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
-"modalNotSecureDetails","This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.\n\nWe suggest you don't enter any private or personal information on this page.\n\nIf possible, don't use the site."
-"modalUnSafeDetails","Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend."
-"messageLastUpdated","This info was last updated on {{date}}."
-"messageSiteSaftey","Site safety can change over time. Check back for updates."
-"modalPaymentDetails","Payment Link"
-"internetError","Slow or no Internet connection, Please check your internet settings."
-"internetErrorHead","Whoops"
-"upiDetailWithPaymentText","This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
-"upiDetailText","This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+"Term","Translated Text","Context","Reference","Comment"
+"Scan","Scan",,"Scan ",
+"Settings","Settings",,"Settings",
+"Activity","Activity",,"Activity",
+"SEQR by DHIWAY","SEQR by DHIWAY",,"seqrByDhiway",
+"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here","Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here",,"noHistoryUseScan",
+"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes","You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes",,"disableActivityMessage",
+"SEQR is","SEQR is",,"onboardTitle0",
+"Always FREE","Always FREE",,"onboardSubTitle0",
+"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.","Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.",,"onboardDescription0",
+"Absolute Certainty in everyday transactions!","Absolute Certainty in everyday transactions!",,"onboardTopContent1",
+"How does it ","How does it ",,"onboardTitle1",
+"WORK?","WORK?",,"onboardSubTitle1",
+"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.",,"onboardDescription1",
+"If you find a phishing web link, report it and help us make transactions safer","If you find a phishing web link, report it and help us make transactions safer",,"onboardCenterContent2",
+"Join the movement for a","Join the movement for a",,"onboardTitle2",
+"Safer Internet","Safer Internet",,"onboardSubTitle2",
+"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.","Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.",,"onboardDescription2",
+"Proceeding without access","Proceeding without access",,"permProceedWithout",
+"SEQR needs access to ","SEQR needs access to ",,"permSeqrAsk",
+"Deny","Deny",,"permDeny",
+"Camera","Camera",,"permAccessCamera",
+"to scan QR Codes","to scan QR Codes",,"permCameraReason",
+"Storage,","Storage,",,"permAccessStorage",
+"to read uploaded QR Code images","to read uploaded QR Code images",,"permStorageReason",
+"Location","Location",,"permAccessLocation",
+"to remind you of where a QR Code (in activity) was scanned","to remind you of where a QR Code (in activity) was scanned",,"permLocationReason",
+"Grant permissions","Grant permissions",,"permGrant",
+"(Not Secure!)","(Not Secure!)",,"dBtnWarning",
+"(Dangerous!)","(Dangerous!)",,"dBtnRisky",
+"Copied QR Content","Copied QR Content",,"dQrContentCopied",
+"Translated Text","Translated Text",,"dTranslatedText",
+"No Camera Access","No Camera Access",,"scanNoCameraAccess",
+"Without access to the Camera, SEQR can't scan QR Codes","Without access to the Camera, SEQR can't scan QR Codes",,"scanNoCameraAccessDetail",
+"Timeout. No QRs Scanned","Timeout. No QRs Scanned",,"scanTimeout",
+"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.\n\nKeeping the camera on for long may drain battery.\nOpening the Activity tab.","Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.\n\nKeeping the camera on for long may drain battery.\nOpening the Activity tab.",,"scanTimeoutText",
+"Find a code to scan","Find a code to scan",,"scanQrHint",
+"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.",,"settingAboutSEQR",
+"Safe Browsing","Safe Browsing",,"settingSafeAdvisory",
+"Terms of Service","Terms of Service",,"settingUserAgreement",
+"Privacy Policy","Privacy Policy",,"settingPrivacyPolicy",
+"About Dhiway","About Dhiway",,"settingAboutDhiway",
+"Select your language","Select your language",,"settingLangChange",
+"Activity as default screen","Activity as default screen",,"defaultscreentext",
+"Record Activity","Record Activity",,"Historyneedtext",
+"English","English",,"English",
+"Kannada","Kannada",,"Kannada",
+"Malayalam","Malayalam",,"Malayalam",
+"Bengali","Bengali",,"Bengali",
+"Hindi","Hindi",,"Hindi",
+"Book ISBN","Book ISBN",,"bookQR",
+"The code you scanned contains the following detail","The code you scanned contains the following detail",,"textQR",
+"Event","Event",,"eventLabel",
+"Name","Name",,"nameLabel",
+"Address","Address",,"addressLabel",
+"Amount","Amount",,"amountLabel",
+"Payment","Payment",,"paymentLabel",
+"Date","Date",,"dateLabel",
+"Starts at","Starts at",,"startsAtLabel",
+"Location","Location",,"locationLabel",
+"Email","Email",,"emailLabel",
+"Phone number","Phone number",,"phoneNumberLbl",
+"SMS","SMS",,"smsLabel",
+"Recipient","Recipient",,"recipientLabel",
+"Text message","Text message",,"textMsgLabel",
+"Compose text message","Compose text message",,"composeSmsBtn",
+"Add to Calendar","Add to Calendar",,"addToCalendarBtn",
+"Call Organizer","Call Organizer",,"callOrganizerBtn",
+"Save Location to Maps","Save Location to Maps",,"addLocationBtn",
+"Send Email","Send Email",,"sendEmailBtn",
+"Payment Link","Payment Link",,"qrContent",
+"No Unsafe Content Found.","No Unsafe Content Found.",,"threatTypeSafe",
+"Not Secure - Probably Risky","Not Secure - Probably Risky",,"threatTypeNotSecure",
+"Dangerous - Avoid this Site","Dangerous - Avoid this Site",,"threatTypeUnSafe",
+"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.","Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.",,"safeType",
+"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend.","This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend.",,"unSafeType",
+"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site.","This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site.",,"notSecureType",
+"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ","We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ",,"typeErrorSiteNotFound",
+"We're working on getting this fixed as soon as we can. Please try again later.","We're working on getting this fixed as soon as we can. Please try again later.",,"typeErrorFailure",
+"No Internet Connection. Check your network settings and try again.","No Internet Connection. Check your network settings and try again.",,"typeErrorNoConnection",
+"Information you send or get through the site is secure.\n\nEven if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.","Information you send or get through the site is secure.\n\nEven if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.",,"modalSafeDetails",
+"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.\n\nWe suggest you don't enter any private or personal information on this page.\n\nIf possible, don't use the site.","This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.\n\nWe suggest you don't enter any private or personal information on this page.\n\nIf possible, don't use the site.",,"modalNotSecureDetails",
+"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.","Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.",,"modalUnSafeDetails",
+"This info was last updated on {{date}}.","This info was last updated on {{date}}.",,"messageLastUpdated",
+"Site safety can change over time. Check back for updates.","Site safety can change over time. Check back for updates.",,"messageSiteSaftey",
+"Payment Link","Payment Link",,"modalPaymentDetails",
+"Slow or no Internet connection, Please check your internet settings.","Slow or no Internet connection, Please check your internet settings.",,"internetError",
+"Whoops","Whoops",,"internetErrorHead",
+"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.",,"upiDetailWithPaymentText",
+"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.",,"upiDetailText",
