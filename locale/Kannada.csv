@@ -1,90 +1,106 @@
-"Term ","Translated Text","Context ","Reference","Comment"
-"Scan","ಸ್ಕ್ಯಾನ್",,"Scan ",
-"Settings","ಸಂಯೋಜನೆಗಳು",,"Settings",
-"Activity","ಚಟುವಟಿಕೆ",,"Activity",
-"SEQR by DHIWAY","DHIWAY ಮೂಲಕ SEQR",,"seqrByDhiway",
-"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here","ನಿಮ್ಮಂತಹ ನೋಟ ಇನ್ನೂ ಯಾವುದೇ QR ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್! ಇಲ್ಲಿ ನಮೂದುಗಳನ್ನು ನೋಡಲು QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ",,"noHistoryUseScan",
-"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes","ನಿಮ್ಮ ಸ್ಕ್ಯಾನ್ ಚಟುವಟಿಕೆಯ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ ರೆಕಾರ್ಡಿಂಗ್ ಹೊಂದಿವೆ. ನೀವು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬಯಸಿದಲ್ಲಿ, ಸೆಟ್ಟಿಂಗ್ಗಳ ಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಿ. SEQR ಅಪ್ಲಿಕೇಶನ್ ಚಟುವಟಿಕೆ ರೆಕಾರ್ಡಿಂಗ್ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇಲ್ಲದೆ ಕಾರ್ಯ ಮುಂದುವರಿಯುತ್ತದೆ. ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್ ಕ್ಯಾಮರಾ ತೆರೆ ಕೆಳಗಿನ ಸ್ಕ್ಯಾನ್ ಮೇಲೆ ಕ್ಲಿಕ್",,"disableActivityMessage",
-"SEQR is","SEQR ಆಗಿದೆ",,"onboardTitle0",
-"Always FREE","ಯಾವಾಗಲೂ ಉಚಿತ",,"onboardSubTitle0",
-"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.","ಸುರಕ್ಷಿತ ರೀತಿಯಲ್ಲಿ ಸ್ಕ್ಯಾನ್ QR ಸಂಕೇತಗಳು ಸ್ವಾಗತ! SEQR ನೊಂದಿಗೆ ಇದೀಗ ನೋಡಬಹುದು QR ಹಿಂದೆ ಏನು, ಕೋಡ್ ಭದ್ರತೆಯ ಬಗ್ಗೆ ತಿಳಿಸಲಾಗುವುದು, ಮತ್ತು ಸುರಕ್ಷಿತ ಅಥವಾ ಅಪಾಯಕಾರಿ ಎಂದು.",,"onboardDescription0",
-"Absolute Certainty in everyday transactions!","ದೈನಂದಿನ ವ್ಯವಹಾರಗಳಲ್ಲಿ ಸಂಪೂರ್ಣ ನಿಶ್ಚಿತತೆ!",,"onboardTopContent1",
-"How does it ","ಹೇಗೆ ಅದು",,"onboardTitle1",
-"WORK?","ಕೆಲಸ?",,"onboardSubTitle1",
-"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR, ನೀವು ಸ್ಕ್ಯಾನ್ ಮತ್ತು QR ಕೋಡ್ಸ್ ಎಲ್ಲಾ ರೀತಿಯ ಓದಬಹುದು. ಇದು ಸಂಭಾವ್ಯ ಭದ್ರತಾ ಅಪಾಯಗಳನ್ನು ಗುರುತಿಸಲು ವಿವಿಧ ಆನ್ಲೈನ್ ಮೂಲಗಳಿಂದ ಬಳಸಿಕೊಂಡು ಹಲವಾರು ಚೆಕ್ ನಿರ್ವಹಿಸುತ್ತದೆ. ಇದು ಸಂಕೇತಗಳು ಮತ್ತು ವಿಷಯವನ್ನು ನಂಬಲು ಎಂಬುದನ್ನು ಬಗ್ಗೆ ತೀರ್ಮಾನ ನೀವು ಶಕ್ತಗೊಳಿಸುತ್ತದೆ.",,"onboardDescription1",
-"If you find a phishing web link, report it and help us make transactions safer","ನೀವು ಫಿಶಿಂಗ್ ವೆಬ್ ಲಿಂಕ್ ಹುಡುಕಲು ವೇಳೆ, ವರದಿ ಮಾಡಬಹುದು ಮತ್ತು ವ್ಯವಹಾರ ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಸಹಾಯ",,"onboardCenterContent2",
-"Join the movement for a","ಒಂದು ಚಳುವಳಿ ಸೇರಲು",,"onboardTitle2",
-"Safer Internet","ಸುರಕ್ಷಿತ ಇಂಟರ್ನೆಟ್",,"onboardSubTitle2",
-"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.","ನೀವು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಲಾಗಿದೆ ಮಾಹಿತಿ ಬರುವ ಪ್ರತಿ ಬಾರಿಯೂ ಹೆಚ್ಚು ಜನರು ಆನ್ಲೈನ್ ಸುರಕ್ಷಿತ ಉಳಿಯಲು ಸಹಾಯ ಅದನ್ನು ವರದಿ ಮಾಡಿ.",,"onboardDescription2",
-"Proceeding without access","ಸಂಪರ್ಕವನ್ನೇ ಮುಂದುವರಿಯುವುದಕ್ಕೆ",,"permProceedWithout",
-"SEQR needs access to ","SEQR ಪ್ರವೇಶ ಅಗತ್ಯವಿದೆ",,"permSeqrAsk",
-"Deny","ನಿರಾಕರಿಸು",,"permDeny",
-"Camera","ಕ್ಯಾಮೆರಾ",,"permAccessCamera",
-"to scan QR Codes","QR ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್",,"permCameraReason",
-"Storage,","ಶೇಖರಣಾ,",,"permAccessStorage",
-"to read uploaded QR Code images","ಅಪ್ಲೋಡ್ QR ಕೋಡ್ ಚಿತ್ರಗಳನ್ನು ಓದಲು",,"permStorageReason",
-"Location","ಸ್ಥಳ",,"permAccessLocation",
-"to remind you of where a QR Code (in activity) was scanned","ಒಂದು QR ಕೋಡ್ (ಚಟುವಟಿಕೆ) ಸ್ಕ್ಯಾನ್ ಅಲ್ಲಿ ನೀವು ನೆನಪಿನಲ್ಲಿ",,"permLocationReason",
-"Grant permissions","ಅನುಮತಿಗಳನ್ನು ನೀಡಿರಿ",,"permGrant",
-"(Not Secure!)","(ಸುರಕ್ಷಿತ ಅಲ್ಲ!)",,"dBtnWarning",
-"(Dangerous!)","(ಡೇಂಜರಸ್!)",,"dBtnRisky",
-"Copied QR Content","ನಕಲು QR ವಿಷಯ",,"dQrContentCopied",
-"Translated Text","ಅನುವಾದ ಪಠ್ಯ",,"dTranslatedText",
-"No Camera Access","ಕ್ಯಾಮೆರಾವಿಲ್ಲ ಪ್ರವೇಶ",,"scanNoCameraAccess",
-"Without access to the Camera, SEQR can't scan QR Codes","ಕ್ಯಾಮೆರಾ ಪ್ರವೇಶವನ್ನು ಇಲ್ಲದೆ, SEQR ನಾಟ್ ಸ್ಕ್ಯಾನ್ QR ಸಂಕೇತಗಳು ಮಾಡಬಹುದು",,"scanNoCameraAccessDetail",
-"Timeout. No QRs Scanned","ಮುಗಿಯಿತು. ಯಾವುದೇ QRs ಸ್ಕ್ಯಾನ್",,"scanTimeout",
-"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.\n\nKeeping the camera on for long may drain battery.\nOpening the Activity tab.","ಕಳೆದ 30 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಯಾವುದೇ ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್, ಸ್ಕ್ಯಾನ್ ಟ್ಯಾಬ್ ತೆರೆಯಿರಿ ನೀವು ಸ್ಕ್ಯಾನ್ ತಯಾರಾಗಿರುವಾಗ. \ n \ ದೀರ್ಘ ಬ್ಯಾಟರಿ ಹರಿಸುತ್ತವೆ ಮಾಡಬಹುದು ಕ್ಯಾಮರಾ nKeeping. \ ಚಟುವಟಿಕೆ ಟ್ಯಾಬ್ nOpening.",,"scanTimeoutText",
-"Find a code to scan","ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಕೋಡ್ ಹುಡುಕಿ",,"scanQrHint",
-"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR ಸ್ಕ್ಯಾನ್ ಮತ್ತು QR ಕೋಡ್ಸ್ ಎಲ್ಲಾ ರೀತಿಯ ಓದಲು ಮತ್ತು ನೀವು ಅಡ್ಡಲಾಗಿ ಮಾಡಬಹುದು ಬರುವ ಅಸುರಕ್ಷಿತ ವಿಷಯವನ್ನು ಗುರುತಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಇದು ಸಂಭಾವ್ಯ ಭದ್ರತಾ ಅಪಾಯಗಳನ್ನು ಗುರುತಿಸಲು ವಿವಿಧ ಆನ್ಲೈನ್ ಮೂಲಗಳಿಂದ ಬಳಸಿ ಜೊತೆಗೆ ಹಲವಾರು ಚೆಕ್ ನಿರ್ವಹಿಸುತ್ತದೆ. ಇದು ಸಂಕೇತಗಳು ಮತ್ತು ವಿಷಯವನ್ನು ನಂಬಲು ಎಂಬುದನ್ನು ಬಗ್ಗೆ ತೀರ್ಮಾನ ನೀವು ಶಕ್ತಗೊಳಿಸುತ್ತದೆ.",,"settingAboutSEQR",
-"Safe Browsing","ಸುರಕ್ಷಿತ ಬ್ರೌಸಿಂಗ್",,"settingSafeAdvisory",
-"Terms of Service","ಸೇವಾ ನಿಯಮಗಳು",,"settingUserAgreement",
-"Privacy Policy","ಗೌಪ್ಯತಾ ನೀತಿ",,"settingPrivacyPolicy",
-"About Dhiway","Dhiway ಬಗ್ಗೆ",,"settingAboutDhiway",
-"Select your language","ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆ",,"settingLangChange",
-"Activity as default screen","ಡೀಫಾಲ್ಟ್ ಪರದೆಯ ಚಟುವಟಿಕೆ",,"defaultscreentext",
-"Record Activity","ರೆಕಾರ್ಡ್ ಚಟುವಟಿಕೆ",,"Historyneedtext",
-"English","ಆಂಗ್ಲ",,"English",
-"Kannada","ಕನ್ನಡ",,"Kannada",
-"Malayalam","ಮಲಯಾಳಂ",,"Malayalam",
-"Bengali","ಬಂಗಾಳಿ",,"Bengali",
-"Hindi","ಹಿಂದಿ",,"Hindi",
-"Book ISBN","ಪುಸ್ತಕ ಐಎಸ್ಬಿಎನ್",,"bookQR",
-"The code you scanned contains the following detail","ನೀವು ಸ್ಕ್ಯಾನ್ ಕೋಡ್ ಕೆಳಗಿನ ವಿವರ ಒಳಗೊಂಡಿದೆ",,"textQR",
-"Event","ಈವೆಂಟ್",,"eventLabel",
-"Name","ಹೆಸರು",,"nameLabel",
-"Address","ವಿಳಾಸ",,"addressLabel",
-"Amount","ಪ್ರಮಾಣ",,"amountLabel",
-"Payment","ಪಾವತಿ",,"paymentLabel",
-"Date","ದಿನಾಂಕ",,"dateLabel",
-"Starts at","ಗೆ ಪ್ರಾರಂಭ",,"startsAtLabel",
-"Location","ಸ್ಥಳ",,"locationLabel",
-"Email","ಇಮೇಲ್",,"emailLabel",
-"Phone number","ದೂರವಾಣಿ ಸಂಖ್ಯೆ",,"phoneNumberLbl",
-"SMS","ಎಸ್ಎಂಎಸ್",,"smsLabel",
-"Recipient","ಪುರಸ್ಕೃತರು",,"recipientLabel",
-"Text message","ಅಕ್ಷರ ಸಂದೇಶ",,"textMsgLabel",
-"Compose text message","ಕಂಪೋಸ್ ಪಠ್ಯ ಸಂದೇಶ",,"composeSmsBtn",
-"Add to Calendar","ಕ್ಯಾಲೆಂಡರ್ಗೆ ಸೇರಿಸು",,"addToCalendarBtn",
-"Call Organizer","ಕಾಲ್ ಸಂಘಟಕ",,"callOrganizerBtn",
-"Save Location to Maps","ನಕ್ಷೆಗಳಿಗೆ ಸ್ಥಳ ಉಳಿಸಿ",,"addLocationBtn",
-"Send Email","ಇಮೇಲ್ ಕಳುಹಿಸಿ",,"sendEmailBtn",
-"Payment Link","ಪಾವತಿ ಲಿಂಕ್",,"qrContent",
-"No Unsafe Content Found.","ಯಾವುದೇ ಅಸುರಕ್ಷಿತ ವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ.",,"threatTypeSafe",
-"Not Secure - Probably Risky","ಭದ್ರ - ಬಹುಶಃ ರಿಸ್ಕಿ",,"threatTypeNotSecure",
-"Dangerous - Avoid this Site","ಡೇಂಜರಸ್ - ಈ ಸೈಟ್ ತಪ್ಪಿಸಿ",,"threatTypeUnSafe",
-"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.","ನೀವು ಸೈಟ್ ಮೂಲಕ ಕಳುಹಿಸಲು ಅಥವಾ ಸ್ವೀಕರಿಸಲು ಮಾಹಿತಿ ಸುರಕ್ಷಿತವಾಗಿದೆ. ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವಾಗ ಸೈಟ್ ಸುರಕ್ಷಿತ ಫ್ಲ್ಯಾಗ್ ಸಹ, ಯಾವಾಗಲೂ ಎಚ್ಚರಿಕೆ. ನೀವು ಭೇಟಿ ಮಾಡಲು ಬಯಸುವ ಸೈಟ್ನಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ.",,"safeType",
-"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend.","ಈ ಸೈಟ್ ಅಸುರಕ್ಷಿತ ಎಂದು ಫ್ಲ್ಯಾಗ್ ಮಾಡಲಾಗಿದೆ. ಈ ಸೈಟ್ ಸಾಫ್ಟ್ವೇರ್ ಸ್ಥಾಪಿಸುವಿಕೆ ಅಥವಾ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಬಹಿರಂಗ (ಉದಾಹರಣೆಗೆ, ಪಾಸ್ವರ್ಡ್ಗಳು, ಫೋನ್ ಸಂಖ್ಯೆಗಳು, ಅಥವಾ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ಗಳು) ಅಪಾಯಕಾರಿಯಾದ ಏನಾದರೂ ಮಾಡುವಂತಹ ಮೋಸವನ್ನು ಅಥವಾ ನೀವು ಉದ್ದೇಶ ಇಲ್ಲ ಕೆಲಸಗಳನ್ನು ನಿಮ್ಮ ಸಾಧನ ಬಳಸಬಹುದಾಗಿತ್ತು ಭೇಟಿ.",,"unSafeType",
-"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site.","ಈ ಸೈಟ್ ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಒದಗಿಸುವುದಿಲ್ಲ. ಯಾರೋ ನೋಡಿ ಅಥವಾ ನೀವು ಕಳುಹಿಸಲು ಮತ್ತು ಈ ಸೈಟ್ ಮೂಲಕ ಸ್ವೀಕರಿಸಲು ಮಾಹಿತಿಯನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನಾವು ನೀವು ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೇ ಖಾಸಗಿ ಅಥವಾ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ ಇಲ್ಲ ಸೂಚಿಸುತ್ತದೆ. ಸಾಧ್ಯವಾದರೆ, ಸೈಟ್ ಬಳಸಬೇಡಿ.",,"notSecureType",
-"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ","ವೆಬ್ ಸೈಟ್ ತಲುಪಲು ತೋರುತ್ತದೆ ಸಾಧ್ಯವಿಲ್ಲ. ಈ ಪುಟವನ್ನು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ ಅಥವಾ ಕೆಲವು ಇತರ ಭಯಾನಕ ದೋಷ ಸಂಭವಿಸಿದೆ ಇಲ್ಲ.",,"typeErrorSiteNotFound",
-"We're working on getting this fixed as soon as we can. Please try again later.","ನಾವು ಮಾಡಬಹುದು ಎಂದು ಈ ಕೂಡಲೇ ಸ್ಥಿರ ಪಡೆಯುವಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",,"typeErrorFailure",
-"No Internet Connection. Check your network settings and try again.","ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಇಲ್ಲ. ನಿಮ್ಮ ನೆಟ್ವರ್ಕ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",,"typeErrorNoConnection",
-"Information you send or get through the site is secure.\n\nEven if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.","ಮಾಹಿತಿ ನೀವು ಕಳುಹಿಸಲು ಅಥವಾ ಸೈಟ್ ಮೂಲಕ ಸುರಕ್ಷಿತ ಪಡೆಯಿರಿ. \ N \ n ನೆವೆನ್ ಈ ಸಂದೇಶವನ್ನು ನೋಡಿ ವೇಳೆ, ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವಾಗ ಜಾಗರೂಕರಾಗಿರಿ. ನೀವು ಭೇಟಿ ಮಾಡಲು ಬಯಸುವ ಸೈಟ್ನಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ.",,"modalSafeDetails",
-"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.\n\nWe suggest you don't enter any private or personal information on this page.\n\nIf possible, don't use the site.","ಈ ಸೈಟ್ ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಒದಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಯಾರೋ ನೋಡಿ ಅಥವಾ ಈ ಸೈಟ್ ಮೂಲಕ ಕಳುಹಿಸಲು ಅಥವಾ ಪಡೆಯಲು ಮಾಹಿತಿಯನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. \ N \ n ನೀವು ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೇ ಖಾಸಗಿ ಅಥವಾ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ ಇಲ್ಲ ಸೂಚಿಸುತ್ತದೆ. \ N \ n ಸಾಧ್ಯ, ಇಲ್ಲ ಸೈಟ್ ಬಳಸುವುದಿಲ್ಲ.",,"modalNotSecureDetails",
-"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.","ಈ ಸೈಟ್ ಸಾಫ್ಟ್ವೇರ್ ಸ್ಥಾಪಿಸುವಿಕೆ ಅಥವಾ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಬಹಿರಂಗ (ಉದಾಹರಣೆಗೆ, ಪಾಸ್ವರ್ಡ್ಗಳು, ಫೋನ್ ಸಂಖ್ಯೆಗಳು, ಅಥವಾ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ಗಳು) ಅಪಾಯಕಾರಿಯಾದ ಏನಾದರೂ ಮಾಡುವಂತಹ ಮೋಸವನ್ನು ಅಥವಾ ನೀವು ಉದ್ದೇಶ ಇಲ್ಲ ಕೆಲಸಗಳನ್ನು ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಬಳಸಬಹುದಾಗಿತ್ತು ಭೇಟಿ.",,"modalUnSafeDetails",
-"This info was last updated on {{date}}.","ಈ ಮಾಹಿತಿಯನ್ನು ಕಳೆದ ರಂದು ನವೀಕರಿಸಲಾಗಿದೆ {{ದಿನಾಂಕ}}.",,"messageLastUpdated",
-"Site safety can change over time. Check back for updates.","ಸೈಟ್ ಸುರಕ್ಷತೆಯ ಕುರಿತಂತೆ ಸಮಯವನ್ನು ಬದಲಾಯಿಸಬಹುದು. ನವೀಕರಣಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ.",,"messageSiteSaftey",
-"Payment Link","ಪಾವತಿ ಲಿಂಕ್",,"modalPaymentDetails",
-"Slow or no Internet connection, Please check your internet settings.","ನಿಧಾನವಾದ ಅಥವಾ ಅಂತರಜಾಲ ಸಂಪರ್ಕ, ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",,"internetError",
-"Whoops","ಓಹ್",,"internetErrorHead",
-"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ಈ QR VPA ವಿಳಾಸದೊಂದಿಗೆ ವೇತನ ರೂಪಾಯಿ {{amountToPay}} ಗೆ ಲಿಂಕ್ ಗೆ {{merchantName}} ಹೊಂದಿದ್ದರೆ {{merchantId}}. ನೀವು ಬಯಸಿದರೆ ಹಣ ಕಳುಹಿಸಲು ಯಾವುದೇ ಪಾವತಿಯನ್ನು ಅಪ್ಲಿಕೇಶನ್ಗಳನ್ನು ಬಳಸಬಹುದು.",,"upiDetailWithPaymentText",
-"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ಈ QR ವೇತನ {{merchantName}} VPA ವಿಳಾಸದೊಂದಿಗೆ ಲಿಂಕ್ ಇರುತ್ತದೆ {{merchantId}}. ನೀವು ಬಯಸಿದರೆ ಹಣ ಕಳುಹಿಸಲು ಯಾವುದೇ ಪಾವತಿಯನ್ನು ಅಪ್ಲಿಕೇಶನ್ಗಳನ್ನು ಬಳಸಬಹುದು.",,"upiDetailText",
+Scan,ಸ್ಕ್ಯಾನ್,,"Scan ",,Scan
+Settings,ಸಂಯೋಜನೆಗಳು,,Settings,,Settings
+Activity,ಚಟುವಟಿಕೆ,,Activity,,Activity
+"SEQR by DHIWAY","DHIWAY ಮೂಲಕ SEQR",,seqrByDhiway,,"SEQR by DHIWAY"
+"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here","ನಿಮ್ಮಂತಹ ನೋಟ ಇನ್ನೂ ಯಾವುದೇ QR ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್! ಇಲ್ಲಿ ನಮೂದುಗಳನ್ನು ನೋಡಲು QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ",,noHistoryUseScan,,"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here"
+"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes","ನಿಮ್ಮ ಸ್ಕ್ಯಾನ್ ಚಟುವಟಿಕೆಯ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ ರೆಕಾರ್ಡಿಂಗ್ ಹೊಂದಿವೆ. ನೀವು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬಯಸಿದಲ್ಲಿ, ಸೆಟ್ಟಿಂಗ್ಗಳ ಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಿ. SEQR ಅಪ್ಲಿಕೇಶನ್ ಚಟುವಟಿಕೆ ರೆಕಾರ್ಡಿಂಗ್ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇಲ್ಲದೆ ಕಾರ್ಯ ಮುಂದುವರಿಯುತ್ತದೆ. ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್ ಕ್ಯಾಮರಾ ತೆರೆ ಕೆಳಗಿನ ಸ್ಕ್ಯಾನ್ ಮೇಲೆ ಕ್ಲಿಕ್",,disableActivityMessage,,"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes"
+"SEQR is","SEQR ಆಗಿದೆ",,onboardTitle0,,"SEQR is"
+"Always FREE","ಯಾವಾಗಲೂ ಉಚಿತ",,onboardSubTitle0,,"Always FREE"
+"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.","ಸುರಕ್ಷಿತ ರೀತಿಯಲ್ಲಿ ಸ್ಕ್ಯಾನ್ QR ಸಂಕೇತಗಳು ಸ್ವಾಗತ! SEQR ನೊಂದಿಗೆ ಇದೀಗ ನೋಡಬಹುದು QR ಹಿಂದೆ ಏನು, ಕೋಡ್ ಭದ್ರತೆಯ ಬಗ್ಗೆ ತಿಳಿಸಲಾಗುವುದು, ಮತ್ತು ಸುರಕ್ಷಿತ ಅಥವಾ ಅಪಾಯಕಾರಿ ಎಂದು.",,onboardDescription0,,"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky."
+"Absolute Certainty in everyday transactions!","ದೈನಂದಿನ ವ್ಯವಹಾರಗಳಲ್ಲಿ ಸಂಪೂರ್ಣ ನಿಶ್ಚಿತತೆ!",,onboardTopContent1,,"Absolute Certainty in everyday transactions!"
+"How does it ","ಹೇಗೆ ಅದು",,onboardTitle1,,"How does it "
+WORK?,ಕೆಲಸ?,,onboardSubTitle1,,WORK?
+"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR, ನೀವು ಸ್ಕ್ಯಾನ್ ಮತ್ತು QR ಕೋಡ್ಸ್ ಎಲ್ಲಾ ರೀತಿಯ ಓದಬಹುದು. ಇದು ಸಂಭಾವ್ಯ ಭದ್ರತಾ ಅಪಾಯಗಳನ್ನು ಗುರುತಿಸಲು ವಿವಿಧ ಆನ್ಲೈನ್ ಮೂಲಗಳಿಂದ ಬಳಸಿಕೊಂಡು ಹಲವಾರು ಚೆಕ್ ನಿರ್ವಹಿಸುತ್ತದೆ. ಇದು ಸಂಕೇತಗಳು ಮತ್ತು ವಿಷಯವನ್ನು ನಂಬಲು ಎಂಬುದನ್ನು ಬಗ್ಗೆ ತೀರ್ಮಾನ ನೀವು ಶಕ್ತಗೊಳಿಸುತ್ತದೆ.",,onboardDescription1,,"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
+"If you find a phishing web link, report it and help us make transactions safer","ನೀವು ಫಿಶಿಂಗ್ ವೆಬ್ ಲಿಂಕ್ ಹುಡುಕಲು ವೇಳೆ, ವರದಿ ಮಾಡಬಹುದು ಮತ್ತು ವ್ಯವಹಾರ ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಸಹಾಯ",,onboardCenterContent2,,"If you find a phishing web link, report it and help us make transactions safer"
+"Join the movement for a","ಒಂದು ಚಳುವಳಿ ಸೇರಲು",,onboardTitle2,,"Join the movement for a"
+"Safer Internet","ಸುರಕ್ಷಿತ ಇಂಟರ್ನೆಟ್",,onboardSubTitle2,,"Safer Internet"
+"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.","ನೀವು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಲಾಗಿದೆ ಮಾಹಿತಿ ಬರುವ ಪ್ರತಿ ಬಾರಿಯೂ ಹೆಚ್ಚು ಜನರು ಆನ್ಲೈನ್ ಸುರಕ್ಷಿತ ಉಳಿಯಲು ಸಹಾಯ ಅದನ್ನು ವರದಿ ಮಾಡಿ.",,onboardDescription2,,"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online."
+"Proceeding without access","ಸಂಪರ್ಕವನ್ನೇ ಮುಂದುವರಿಯುವುದಕ್ಕೆ",,permProceedWithout,,"Proceeding without access"
+"SEQR needs access to ","SEQR ಪ್ರವೇಶ ಅಗತ್ಯವಿದೆ",,permSeqrAsk,,"SEQR needs access to "
+Deny,ನಿರಾಕರಿಸು,,permDeny,,Deny
+Camera,ಕ್ಯಾಮೆರಾ,,permAccessCamera,,Camera
+"to scan QR Codes","QR ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್",,permCameraReason,,"to scan QR Codes"
+"Storage,","ಶೇಖರಣಾ,",,permAccessStorage,,"Storage,"
+"to read uploaded QR Code images","ಅಪ್ಲೋಡ್ QR ಕೋಡ್ ಚಿತ್ರಗಳನ್ನು ಓದಲು",,permStorageReason,,"to read uploaded QR Code images"
+Location,ಸ್ಥಳ,,locationLabel,,Location
+"to remind you of where a QR Code (in activity) was scanned","ಒಂದು QR ಕೋಡ್ (ಚಟುವಟಿಕೆ) ಸ್ಕ್ಯಾನ್ ಅಲ್ಲಿ ನೀವು ನೆನಪಿನಲ್ಲಿ",,permLocationReason,,"to remind you of where a QR Code (in activity) was scanned"
+"Grant permissions","ಅನುಮತಿಗಳನ್ನು ನೀಡಿರಿ",,permGrant,,"Grant permissions"
+"(Not Secure!)","(ಸುರಕ್ಷಿತ ಅಲ್ಲ!)",,dBtnWarning,,"(Not Secure!)"
+(Dangerous!),(ಡೇಂಜರಸ್!),,dBtnRisky,,(Dangerous!)
+"Copied QR Content","ನಕಲು QR ವಿಷಯ",,dQrContentCopied,,"Copied QR Content"
+"Translated Text","ಅನುವಾದ ಪಠ್ಯ",,dTranslatedText,,"Translated Text"
+"No Camera Access","ಕ್ಯಾಮೆರಾವಿಲ್ಲ ಪ್ರವೇಶ",,scanNoCameraAccess,,"No Camera Access"
+"Without access to the Camera, SEQR can't scan QR Codes","ಕ್ಯಾಮೆರಾ ಪ್ರವೇಶವನ್ನು ಇಲ್ಲದೆ, SEQR ನಾಟ್ ಸ್ಕ್ಯಾನ್ QR ಸಂಕೇತಗಳು ಮಾಡಬಹುದು",,scanNoCameraAccessDetail,,"Without access to the Camera, SEQR can't scan QR Codes"
+"Timeout. No QRs Scanned","ಮುಗಿಯಿತು. ಯಾವುದೇ QRs ಸ್ಕ್ಯಾನ್",,scanTimeout,,"Timeout. No QRs Scanned"
+"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.
+
+Keeping the camera on for long may drain battery.
+Opening the Activity tab.","ಕಳೆದ 30 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಯಾವುದೇ ಸಂಕೇತಗಳು ಸ್ಕ್ಯಾನ್, ಸ್ಕ್ಯಾನ್ ಟ್ಯಾಬ್ ತೆರೆಯಿರಿ ನೀವು ಸ್ಕ್ಯಾನ್ ತಯಾರಾಗಿರುವಾಗ. \ n \ ದೀರ್ಘ ಬ್ಯಾಟರಿ ಹರಿಸುತ್ತವೆ ಮಾಡಬಹುದು ಕ್ಯಾಮರಾ nKeeping. \ ಚಟುವಟಿಕೆ ಟ್ಯಾಬ್ nOpening.",,scanTimeoutText,,"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.
+
+Keeping the camera on for long may drain battery.
+Opening the Activity tab."
+"Find a code to scan","ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಕೋಡ್ ಹುಡುಕಿ",,scanQrHint,,"Find a code to scan"
+"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR ಸ್ಕ್ಯಾನ್ ಮತ್ತು QR ಕೋಡ್ಸ್ ಎಲ್ಲಾ ರೀತಿಯ ಓದಲು ಮತ್ತು ನೀವು ಅಡ್ಡಲಾಗಿ ಮಾಡಬಹುದು ಬರುವ ಅಸುರಕ್ಷಿತ ವಿಷಯವನ್ನು ಗುರುತಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಇದು ಸಂಭಾವ್ಯ ಭದ್ರತಾ ಅಪಾಯಗಳನ್ನು ಗುರುತಿಸಲು ವಿವಿಧ ಆನ್ಲೈನ್ ಮೂಲಗಳಿಂದ ಬಳಸಿ ಜೊತೆಗೆ ಹಲವಾರು ಚೆಕ್ ನಿರ್ವಹಿಸುತ್ತದೆ. ಇದು ಸಂಕೇತಗಳು ಮತ್ತು ವಿಷಯವನ್ನು ನಂಬಲು ಎಂಬುದನ್ನು ಬಗ್ಗೆ ತೀರ್ಮಾನ ನೀವು ಶಕ್ತಗೊಳಿಸುತ್ತದೆ.",,settingAboutSEQR,,"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
+"Safe Browsing","ಸುರಕ್ಷಿತ ಬ್ರೌಸಿಂಗ್",,settingSafeAdvisory,,"Safe Browsing"
+"Terms of Service","ಸೇವಾ ನಿಯಮಗಳು",,settingUserAgreement,,"Terms of Service"
+"Privacy Policy","ಗೌಪ್ಯತಾ ನೀತಿ",,settingPrivacyPolicy,,"Privacy Policy"
+"About Dhiway","Dhiway ಬಗ್ಗೆ",,settingAboutDhiway,,"About Dhiway"
+"Select your language","ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆ",,settingLangChange,,"Select your language"
+"Activity as default screen","ಡೀಫಾಲ್ಟ್ ಪರದೆಯ ಚಟುವಟಿಕೆ",,defaultscreentext,,"Activity as default screen"
+"Record Activity","ರೆಕಾರ್ಡ್ ಚಟುವಟಿಕೆ",,Historyneedtext,,"Record Activity"
+English,ಆಂಗ್ಲ,,English,,English
+Kannada,ಕನ್ನಡ,,Kannada,,Kannada
+Malayalam,ಮಲಯಾಳಂ,,Malayalam,,Malayalam
+Bengali,ಬಂಗಾಳಿ,,Bengali,,Bengali
+Hindi,ಹಿಂದಿ,,Hindi,,Hindi
+"Book ISBN","ಪುಸ್ತಕ ಐಎಸ್ಬಿಎನ್",,bookQR,,"Book ISBN"
+"The code you scanned contains the following detail","ನೀವು ಸ್ಕ್ಯಾನ್ ಕೋಡ್ ಕೆಳಗಿನ ವಿವರ ಒಳಗೊಂಡಿದೆ",,textQR,,"The code you scanned contains the following detail"
+Event,ಈವೆಂಟ್,,eventLabel,,Event
+Name,ಹೆಸರು,,nameLabel,,Name
+Address,ವಿಳಾಸ,,addressLabel,,Address
+Amount,ಪ್ರಮಾಣ,,amountLabel,,Amount
+Payment,ಪಾವತಿ,,paymentLabel,,Payment
+Date,ದಿನಾಂಕ,,dateLabel,,Date
+"Starts at","ಗೆ ಪ್ರಾರಂಭ",,startsAtLabel,,"Starts at"
+Email,ಇಮೇಲ್,,emailLabel,,Email
+"Phone number","ದೂರವಾಣಿ ಸಂಖ್ಯೆ",,phoneNumberLbl,,"Phone number"
+SMS,ಎಸ್ಎಂಎಸ್,,smsLabel,,SMS
+Recipient,ಪುರಸ್ಕೃತರು,,recipientLabel,,Recipient
+"Text message","ಅಕ್ಷರ ಸಂದೇಶ",,textMsgLabel,,"Text message"
+"Compose text message","ಕಂಪೋಸ್ ಪಠ್ಯ ಸಂದೇಶ",,composeSmsBtn,,"Compose text message"
+"Add to Calendar","ಕ್ಯಾಲೆಂಡರ್ಗೆ ಸೇರಿಸು",,addToCalendarBtn,,"Add to Calendar"
+"Call Organizer","ಕಾಲ್ ಸಂಘಟಕ",,callOrganizerBtn,,"Call Organizer"
+"Save Location to Maps","ನಕ್ಷೆಗಳಿಗೆ ಸ್ಥಳ ಉಳಿಸಿ",,addLocationBtn,,"Save Location to Maps"
+"Send Email","ಇಮೇಲ್ ಕಳುಹಿಸಿ",,sendEmailBtn,,"Send Email"
+"Payment Link","ಪಾವತಿ ಲಿಂಕ್",,modalPaymentDetails,,"Payment Link"
+"No Unsafe Content Found.","ಯಾವುದೇ ಅಸುರಕ್ಷಿತ ವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ.",,threatTypeSafe,,"No Unsafe Content Found."
+"Not Secure - Probably Risky","ಭದ್ರ - ಬಹುಶಃ ರಿಸ್ಕಿ",,threatTypeNotSecure,,"Not Secure - Probably Risky"
+"Dangerous - Avoid this Site","ಡೇಂಜರಸ್ - ಈ ಸೈಟ್ ತಪ್ಪಿಸಿ",,threatTypeUnSafe,,"Dangerous - Avoid this Site"
+"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.","ನೀವು ಸೈಟ್ ಮೂಲಕ ಕಳುಹಿಸಲು ಅಥವಾ ಸ್ವೀಕರಿಸಲು ಮಾಹಿತಿ ಸುರಕ್ಷಿತವಾಗಿದೆ. ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವಾಗ ಸೈಟ್ ಸುರಕ್ಷಿತ ಫ್ಲ್ಯಾಗ್ ಸಹ, ಯಾವಾಗಲೂ ಎಚ್ಚರಿಕೆ. ನೀವು ಭೇಟಿ ಮಾಡಲು ಬಯಸುವ ಸೈಟ್ನಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ.",,safeType,,"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit."
+"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend.","ಈ ಸೈಟ್ ಅಸುರಕ್ಷಿತ ಎಂದು ಫ್ಲ್ಯಾಗ್ ಮಾಡಲಾಗಿದೆ. ಈ ಸೈಟ್ ಸಾಫ್ಟ್ವೇರ್ ಸ್ಥಾಪಿಸುವಿಕೆ ಅಥವಾ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಬಹಿರಂಗ (ಉದಾಹರಣೆಗೆ, ಪಾಸ್ವರ್ಡ್ಗಳು, ಫೋನ್ ಸಂಖ್ಯೆಗಳು, ಅಥವಾ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ಗಳು) ಅಪಾಯಕಾರಿಯಾದ ಏನಾದರೂ ಮಾಡುವಂತಹ ಮೋಸವನ್ನು ಅಥವಾ ನೀವು ಉದ್ದೇಶ ಇಲ್ಲ ಕೆಲಸಗಳನ್ನು ನಿಮ್ಮ ಸಾಧನ ಬಳಸಬಹುದಾಗಿತ್ತು ಭೇಟಿ.",,unSafeType,,"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend."
+"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site.","ಈ ಸೈಟ್ ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಒದಗಿಸುವುದಿಲ್ಲ. ಯಾರೋ ನೋಡಿ ಅಥವಾ ನೀವು ಕಳುಹಿಸಲು ಮತ್ತು ಈ ಸೈಟ್ ಮೂಲಕ ಸ್ವೀಕರಿಸಲು ಮಾಹಿತಿಯನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನಾವು ನೀವು ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೇ ಖಾಸಗಿ ಅಥವಾ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ ಇಲ್ಲ ಸೂಚಿಸುತ್ತದೆ. ಸಾಧ್ಯವಾದರೆ, ಸೈಟ್ ಬಳಸಬೇಡಿ.",,notSecureType,,"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site."
+"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ","ವೆಬ್ ಸೈಟ್ ತಲುಪಲು ತೋರುತ್ತದೆ ಸಾಧ್ಯವಿಲ್ಲ. ಈ ಪುಟವನ್ನು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ ಅಥವಾ ಕೆಲವು ಇತರ ಭಯಾನಕ ದೋಷ ಸಂಭವಿಸಿದೆ ಇಲ್ಲ.",,typeErrorSiteNotFound,,"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. "
+"We're working on getting this fixed as soon as we can. Please try again later.","ನಾವು ಮಾಡಬಹುದು ಎಂದು ಈ ಕೂಡಲೇ ಸ್ಥಿರ ಪಡೆಯುವಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",,typeErrorFailure,,"We're working on getting this fixed as soon as we can. Please try again later."
+"No Internet Connection. Check your network settings and try again.","ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಇಲ್ಲ. ನಿಮ್ಮ ನೆಟ್ವರ್ಕ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",,typeErrorNoConnection,,"No Internet Connection. Check your network settings and try again."
+"Information you send or get through the site is secure.
+
+Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.","ಮಾಹಿತಿ ನೀವು ಕಳುಹಿಸಲು ಅಥವಾ ಸೈಟ್ ಮೂಲಕ ಸುರಕ್ಷಿತ ಪಡೆಯಿರಿ. \ N \ n ನೆವೆನ್ ಈ ಸಂದೇಶವನ್ನು ನೋಡಿ ವೇಳೆ, ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವಾಗ ಜಾಗರೂಕರಾಗಿರಿ. ನೀವು ಭೇಟಿ ಮಾಡಲು ಬಯಸುವ ಸೈಟ್ನಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ.",,modalSafeDetails,,"Information you send or get through the site is secure.
+
+Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
+"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.
+
+We suggest you don't enter any private or personal information on this page.
+
+If possible, don't use the site.","ಈ ಸೈಟ್ ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಒದಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಯಾರೋ ನೋಡಿ ಅಥವಾ ಈ ಸೈಟ್ ಮೂಲಕ ಕಳುಹಿಸಲು ಅಥವಾ ಪಡೆಯಲು ಮಾಹಿತಿಯನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. \ N \ n ನೀವು ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೇ ಖಾಸಗಿ ಅಥವಾ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ ಇಲ್ಲ ಸೂಚಿಸುತ್ತದೆ. \ N \ n ಸಾಧ್ಯ, ಇಲ್ಲ ಸೈಟ್ ಬಳಸುವುದಿಲ್ಲ.",,modalNotSecureDetails,,"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.
+
+We suggest you don't enter any private or personal information on this page.
+
+If possible, don't use the site."
+"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.","ಈ ಸೈಟ್ ಸಾಫ್ಟ್ವೇರ್ ಸ್ಥಾಪಿಸುವಿಕೆ ಅಥವಾ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಬಹಿರಂಗ (ಉದಾಹರಣೆಗೆ, ಪಾಸ್ವರ್ಡ್ಗಳು, ಫೋನ್ ಸಂಖ್ಯೆಗಳು, ಅಥವಾ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ಗಳು) ಅಪಾಯಕಾರಿಯಾದ ಏನಾದರೂ ಮಾಡುವಂತಹ ಮೋಸವನ್ನು ಅಥವಾ ನೀವು ಉದ್ದೇಶ ಇಲ್ಲ ಕೆಲಸಗಳನ್ನು ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಬಳಸಬಹುದಾಗಿತ್ತು ಭೇಟಿ.",,modalUnSafeDetails,,"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend."
+"This info was last updated on {{date}}.","ಈ ಮಾಹಿತಿಯನ್ನು ಕಳೆದ ರಂದು ನವೀಕರಿಸಲಾಗಿದೆ {{ದಿನಾಂಕ}}.",,messageLastUpdated,,"This info was last updated on {{date}}."
+"Site safety can change over time. Check back for updates.","ಸೈಟ್ ಸುರಕ್ಷತೆಯ ಕುರಿತಂತೆ ಸಮಯವನ್ನು ಬದಲಾಯಿಸಬಹುದು. ನವೀಕರಣಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ.",,messageSiteSaftey,,"Site safety can change over time. Check back for updates."
+"Slow or no Internet connection, Please check your internet settings.","ನಿಧಾನವಾದ ಅಥವಾ ಅಂತರಜಾಲ ಸಂಪರ್ಕ, ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",,internetError,,"Slow or no Internet connection, Please check your internet settings."
+Whoops,ಓಹ್,,internetErrorHead,,Whoops
+"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ಈ QR VPA ವಿಳಾಸದೊಂದಿಗೆ ವೇತನ ರೂಪಾಯಿ {{amountToPay}} ಗೆ ಲಿಂಕ್ ಗೆ {{merchantName}} ಹೊಂದಿದ್ದರೆ {{merchantId}}. ನೀವು ಬಯಸಿದರೆ ಹಣ ಕಳುಹಿಸಲು ಯಾವುದೇ ಪಾವತಿಯನ್ನು ಅಪ್ಲಿಕೇಶನ್ಗಳನ್ನು ಬಳಸಬಹುದು.",,upiDetailWithPaymentText,,"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ಈ QR ವೇತನ {{merchantName}} VPA ವಿಳಾಸದೊಂದಿಗೆ ಲಿಂಕ್ ಇರುತ್ತದೆ {{merchantId}}. ನೀವು ಬಯಸಿದರೆ ಹಣ ಕಳುಹಿಸಲು ಯಾವುದೇ ಪಾವತಿಯನ್ನು ಅಪ್ಲಿಕೇಶನ್ಗಳನ್ನು ಬಳಸಬಹುದು.",,upiDetailText,,"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+"We're working on getting this fixed as soon as we can. Please try again later.",," प्रयास करें।",typeErrorFailure,,
