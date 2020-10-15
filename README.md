@@ -2,6 +2,7 @@
 
 This repository contains the translations files for [SEQR Mobile App](https://dhiway.com/seqr).
 
+We have linked this up with [POEditor](https://poeditor.com/) too, if you wish to contribute
 
 ## How to contribute
 
