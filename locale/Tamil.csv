@@ -1,90 +1,106 @@
-"Term ","Translated Text","Context","Reference","Comment"
-"Scan","ஊடுகதிர்",,"Scan ",
-"Settings","அமைப்புகள்",,"Settings",
-"Activity","செயல்பாடு",,"Activity",
-"SEQR by DHIWAY","DHIWAY மூலம் SEQR",,"seqrByDhiway",
-"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here","உங்களைப் போன்ற தோற்றம் இன்னும் எந்த விரைவான பதில் குறியீடுகள் ஸ்கேன் இல்லை! இங்கே உள்ளீடுகளை பார்க்க ஒரு QR குறியீட்டை ஸ்கேன் செய்யவும்",,"noHistoryUseScan",
-"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes","நீங்கள் உங்கள் ஸ்கேன் நடவடிக்கை ஊனமுற்றோர் பதிவுசெய்யப்படுகிறது. அதனை இயக்க விரும்பினால், அமைப்புகள் பக்கத்தைப் பார்வையிடவும் அது மீண்டும் இயக்கும். SEQR பயன்பாட்டின் செயல்பாடு பதிவு இல்லாமல் எந்த பிரச்சனையும் இல்லாமல் வேலை தொடரும். குறியீடுகள் ஸ்கேன் கேமராவை கீழே ஸ்கேன் கிளிக்",,"disableActivityMessage",
-"SEQR is","SEQR உள்ளது",,"onboardTitle0",
-"Always FREE","எப்போதும் இலவச",,"onboardSubTitle0",
-"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.","ஸ்கேன் விரைவான பதில் குறியீடுகள் ஒரு பாதுகாப்பான வழிமுறைக்கு வரவேற்கிறோம்! SEQR நீங்கள் இப்போது க்யூ பின்னால் என்ன, குறியீடு பாதுகாப்பு குறித்து தகவல் தெரிவிக்க வேண்டும், அவை பாதுகாப்பானதா அல்லது அபாயமானது என்பதை பார்க்க முடியும்.",,"onboardDescription0",
-"Absolute Certainty in everyday transactions!","தினமும் பரிவர்த்தனைகளில் முழுமையான நிலைத்தன்மை!",,"onboardTopContent1",
-"How does it ","எப்படி அது",,"onboardTitle1",
-"WORK?","வேலை?",,"onboardSubTitle1",
-"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR, நீங்கள் ஸ்கேன் மற்றும் க்யூ குறியீடுகள் அனைத்து வகையான படிக்க முடியும். அது உள்ளார்ந்த பாதுகாப்பு அபாயங்களைக் கண்டறிய பல்வேறு ஆன்லைன் ஆதாரங்களில் இருந்து தகவல் பயன்படுத்தி பல காசோலைகளை செய்கிறது. அது குறியீடுகள் மற்றும் உள்ளடக்கம் நம்ப இல்லையா என்பதை பற்றி தகவலறிந்த முடிவுகளை எடுக்க நீங்கள் செயல்படுத்துகிறது.",,"onboardDescription1",
-"If you find a phishing web link, report it and help us make transactions safer","நீங்கள் ஃபிஷிங் இணையதள இணைப்பு கண்டால், அது குறித்து மற்றும் உதவி எங்களுக்கு பரிமாற்றங்கள் பாதுகாப்பாக வைப்பதற்கு",,"onboardCenterContent2",
-"Join the movement for a","ஒரு இயக்கம் சேர",,"onboardTitle2",
-"Safer Internet","பாதுகாப்பான இணைய",,"onboardSubTitle2",
-"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.","நீங்கள் ஒரு தவறாக வகைப்படுத்தலாம் தகவலைக் வந்து ஒவ்வொரு முறையும், மேலும் மக்கள் ஆன்லைனில் பாதுகாப்பாக இருக்க உதவும் அது குறித்து புகார் அளியுங்கள்.",,"onboardDescription2",
-"Proceeding without access","அணுகல் இல்லாமல் மேலே செல்வதற்கு",,"permProceedWithout",
-"SEQR needs access to ","SEQR அணுக வேண்டியுள்ளது",,"permSeqrAsk",
-"Deny","மறு",,"permDeny",
-"Camera","புகைப்பட கருவி",,"permAccessCamera",
-"to scan QR Codes","க்யூ குறியீடுகள் ஸ்கேன்",,"permCameraReason",
-"Storage,","சேமிப்பு,",,"permAccessStorage",
-"to read uploaded QR Code images","பதிவேற்றிய QR குறியீடு படங்களை கிரகித்துக் கொள்ளும்",,"permStorageReason",
-"Location","இருப்பிடம்",,"permAccessLocation",
-"to remind you of where a QR Code (in activity) was scanned","அங்கு ஒரு QR குறியீடு (செயல்பாடு) ஸ்கேன் செய்யப்பட்டது உங்களுக்கு ஞாபகப்படுத்த",,"permLocationReason",
-"Grant permissions","அனுமதிகளை வழங்கு",,"permGrant",
-"(Not Secure!)","(பாதுகாப்பான இல்லை!)",,"dBtnWarning",
-"(Dangerous!)","(ஆபத்தான!)",,"dBtnRisky",
-"Copied QR Content","நகலெடுக்கப்பட்டன க்யூ உள்ளடக்க",,"dQrContentCopied",
-"Translated Text","மொழிபெயர்க்கப்பட்ட உரை",,"dTranslatedText",
-"No Camera Access","கேமரா இல்லை அணுகல்",,"scanNoCameraAccess",
-"Without access to the Camera, SEQR can't scan QR Codes","கேமரா அணுகல் இல்லாமல், SEQR இல்லை ஸ்கேன் க்யூ குறியீடுகள் முடியும்",,"scanNoCameraAccessDetail",
-"Timeout. No QRs Scanned","நேரம் முடிந்தது. இல்லை QRS ஸ்கேன்",,"scanTimeout",
-"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.\n\nKeeping the camera on for long may drain battery.\nOpening the Activity tab.","கடைசி 30 விநாடிகள் எந்த குறியீடுகள் ஸ்கேன் இல்லை, ஸ்கேன் தாவலை மீண்டும் நீங்கள் ஸ்கேன் செய்யத் தயாராக இருக்கும் போது. \ n \ n நீண்ட பேட்டரியைத் இருக்கலாம் கேமரா nKeeping. \ நடவடிக்கை தாவலை nOpening.",,"scanTimeoutText",
-"Find a code to scan","ஸ்கேன் ஒரு குறியீடு காணவும்",,"scanQrHint",
-"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR ஸ்கேன் மற்றும் க்யூ குறியீடுகள் அனைத்து வகையான படித்து நீங்கள் காணும் என்று பாதுகாப்பற்ற உள்ளடக்கத்தை அடையாளம் வடிவமைக்கப்பட்டுள்ளது. அது உள்ளார்ந்த பாதுகாப்பு அபாயங்களைக் கண்டறிய பல்வேறு ஆன்லைன் ஆதாரங்களில் இருந்து தகவலைப் பயன்படுத்தி கூடுதலாக பல காசோலைகளை செய்கிறது. அது குறியீடுகள் மற்றும் உள்ளடக்கம் நம்ப இல்லையா என்பதை பற்றி தகவலறிந்த முடிவுகளை எடுக்க நீங்கள் செயல்படுத்துகிறது.",,"settingAboutSEQR",
-"Safe Browsing","பாதுகாப்பு உலாவல்",,"settingSafeAdvisory",
-"Terms of Service","சேவை விதிமுறைகள்",,"settingUserAgreement",
-"Privacy Policy","தனியுரிமை கொள்கை",,"settingPrivacyPolicy",
-"About Dhiway","Dhiway பற்றி",,"settingAboutDhiway",
-"Select your language","உங்கள் மொழியைத் தேர்ந்தெடுங்கள்",,"settingLangChange",
-"Activity as default screen","இயல்பான திரைப் போன்ற நடவடிக்கை",,"defaultscreentext",
-"Record Activity","பதிவு நடவடிக்கை",,"Historyneedtext",
-"English","ஆங்கிலம்",,"English",
-"Kannada","கன்னடம்",,"Kannada",
-"Malayalam","மலையாளம்",,"Malayalam",
-"Bengali","பெங்காலி",,"Bengali",
-"Hindi","இந்தி",,"Hindi",
-"Book ISBN","புத்தக ஐஎஸ்பிஎன்",,"bookQR",
-"The code you scanned contains the following detail","நீங்கள் ஸ்கேன் குறியீடு பின்வரும் விபரம் கொண்டிருக்கிறது",,"textQR",
-"Event","நிகழ்வு",,"eventLabel",
-"Name","பெயர்",,"nameLabel",
-"Address","முகவரி",,"addressLabel",
-"Amount","தொகை",,"amountLabel",
-"Payment","கொடுப்பனவு",,"paymentLabel",
-"Date","தேதி",,"dateLabel",
-"Starts at","மணிக்குத் தொடங்கும்",,"startsAtLabel",
-"Location","இருப்பிடம்",,"locationLabel",
-"Email","மின்னஞ்சல்",,"emailLabel",
-"Phone number","தொலைபேசி எண்",,"phoneNumberLbl",
-"SMS","எஸ்எம்எஸ்",,"smsLabel",
-"Recipient","பெறுநரின்",,"recipientLabel",
-"Text message","உரை சேதி",,"textMsgLabel",
-"Compose text message","எழுது உரை செய்தி",,"composeSmsBtn",
-"Add to Calendar","காலெண்டரில் சேர்க்கவும்",,"addToCalendarBtn",
-"Call Organizer","கால் அமைப்பாளர்",,"callOrganizerBtn",
-"Save Location to Maps","வரைபடங்கள், இருப்பிட சேமி",,"addLocationBtn",
-"Send Email","மின்னஞ்சல் அனுப்பு",,"sendEmailBtn",
-"Payment Link","கொடுப்பனவு இணைப்பு",,"qrContent",
-"No Unsafe Content Found.","இல்லை பாதுகாப்பற்ற உள்ளடக்கத்தைக் கண்டறிந்தேன்.",,"threatTypeSafe",
-"Not Secure - Probably Risky","இல்லை பாதுகாப்பான - ரிஸ்கி ஒருவேளை",,"threatTypeNotSecure",
-"Dangerous - Avoid this Site","ஆபத்தான - இந்த தள தவிர்க்க",,"threatTypeUnSafe",
-"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.","நீங்கள் தளத்தில் மூலம் அனுப்பவோ அல்லது பெறவோ தகவல் பாதுகாப்பானது. தனியார் தகவலைப் பகிரும்போது தளத்தில் பாதுகாப்பான கொடியிடப்பட்டதும் கூட, எப்போதும் கவனமாக இருக்க. நிச்சயமாக நீங்கள் பார்வையிட விரும்பும் தளத்தில் இருக்கும் செய்ய முகவரி பட்டியில் பாருங்கள்.",,"safeType",
-"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend.","இத்தளம் பாதுகாப்பற்ற போன்ற குறிக்கப்பட்டது. இந்த தளத்தில் மென்பொருளை நிறுவுதல் அல்லது (உதாரணமாக, கடவுச்சொற்கள், ஃபோன் எண்கள் அல்லது கிரெடிட் கார்டுகள் போன்றவை) உங்கள் தனிப்பட்ட தகவல்களை வெளியிடச் செய்தல் போன்ற ஆபத்தான செயல்களைச் செய்யும்படி ஏமாற்ற முடியும் அல்லது எண்ணம் இல்லை என்று விஷயங்களை செய்ய உங்கள் சாதனத்தைப் பயன்படுத்த அறிவது போன்றவை.",,"unSafeType",
-"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site.","இத்தளம் பாதுகாப்பான இணைப்பைப் வழங்காது. யாரோ பார்க்க அல்லது இந்தத் தளத்தை மூலம் அனுப்ப மற்றும் பெற தகவல் மாற்ற முடியும். நாம் இந்தப் பக்கத்தில் நீங்கள் எந்த தனிப்பட்ட அல்லது தனிநபர் தகவலை உள்ளிட அவை கூறுகின்றன. முடிந்தால், தளத்தில் பயன்படுத்த வேண்டாம்.",,"notSecureType",
-"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ","நாம் இணைய தளம் அடைய முடியவில்லை. இப்பக்கம் இல்லை அல்லது வேறு சில பயங்கரமான பிழை ஏற்பட்டுள்ளது.",,"typeErrorSiteNotFound",
-"We're working on getting this fixed as soon as we can. Please try again later.","எங்களால் முடிந்தமட்டில் விரைவில் இதை சரி செய்ய, நாங்கள் உழைத்துகொண்டிருக்கிறோம். பின்னர் மீண்டும் முயற்சிக்கவும்.",,"typeErrorFailure",
-"No Internet Connection. Check your network settings and try again.","இணைய இணைப்பு இல்லை. உங்கள் பிணைய அமைப்புகளைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.",,"typeErrorNoConnection",
-"Information you send or get through the site is secure.\n\nEven if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.","தகவல் நீங்கள் அனுப்பும் அல்லது தளத்தில் பாதுகாப்பானது மூலம் கிடைக்கும். \ N \ n Neven தனியார் தகவலைப் பகிரும்போது இந்தச் செய்தியைப் பார்த்தால் கூட, எப்போதும் கவனமாக இருக்க. நிச்சயமாக நீங்கள் பார்வையிட விரும்பும் தளத்தில் இயங்குகிறார்களா என்பதைச் முகவரி பட்டியில் பாருங்கள்.",,"modalSafeDetails",
-"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.\n\nWe suggest you don't enter any private or personal information on this page.\n\nIf possible, don't use the site.","இத்தளம் பாதுகாப்பான இணைப்பைப் வழங்க முடியாது. யாரோ பார்க்க அல்லது இந்தத் தளத்தை மூலம் அனுப்ப அல்லது பெற தகவலை மாற்ற முடியும். \ N \ n இந்த பக்கத்தில் எந்த தனிப்பட்ட அல்லது தனிநபர் தகவலை உள்ளிட அவை கூறுகின்றன. \ N \ n சாத்தியம், தளத்தில் பயன்படுத்த வேண்டாம்.",,"modalNotSecureDetails",
-"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.","இந்த தளத்தில் மென்பொருளை நிறுவுதல் அல்லது (உதாரணமாக, கடவுச்சொற்கள், ஃபோன் எண்கள் அல்லது கிரெடிட் கார்டுகள் போன்றவை) உங்கள் தனிப்பட்ட தகவல்களை வெளியிடச் செய்தல் போன்ற ஆபத்தான செயல்களைச் செய்யும்படி ஏமாற்ற முடியும் அல்லது எண்ணம் இல்லை என்று விஷயங்களை செய்ய உங்கள் கணினியில் பயன்படுத்த அறிவது போன்றவை.",,"modalUnSafeDetails",
-"This info was last updated on {{date}}.","இந்தத் தகவல் கடந்த இல் புதுப்பிக்கப்பட்டன {{தேதி}}.",,"messageLastUpdated",
-"Site safety can change over time. Check back for updates.","தள பாதுகாப்பு மீது நேரத்தை மாற்ற முடியும். புதுப்பிப்பதற்கு வந்து பார்க்கவும்.",,"messageSiteSaftey",
-"Payment Link","கொடுப்பனவு இணைப்பு",,"modalPaymentDetails",
-"Slow or no Internet connection, Please check your internet settings.","ஸ்லோ அல்லது இணைய இணைப்பு, உங்கள் இணைய அமைப்புகளைச் சரிபார்க்கவும்.",,"internetError",
-"Whoops","அச்சச்சோ",,"internetErrorHead",
-"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","இந்த QR VPA முகவரியுடன் ஊதியத்தின் ரூபாய் {{amountToPay}} க்கு இணைப்பைப் {{merchantName}} கொண்டுள்ளது {{MerchantId}}. நீங்கள் விரும்பினால் பணம் அனுப்ப எந்த கட்டணம் பயன்பாடுகளைப் பயன்படுத்தலாம்.",,"upiDetailWithPaymentText",
-"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","இந்த QR ஊதியம் {{merchantName}} VPA முகவரியுடன் க்கு இணைப்பு கொண்டிருக்கக்கூடிய {{MerchantId}}. நீங்கள் விரும்பினால் பணம் அனுப்ப எந்த கட்டணம் பயன்பாடுகளைப் பயன்படுத்தலாம்.",,"upiDetailText",
+Scan,ஊடுகதிர்,,"Scan ",,Scan
+Settings,அமைப்புகள்,,Settings,,Settings
+Activity,செயல்பாடு,,Activity,,Activity
+"SEQR by DHIWAY","DHIWAY மூலம் SEQR",,seqrByDhiway,,"SEQR by DHIWAY"
+"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here","உங்களைப் போன்ற தோற்றம் இன்னும் எந்த விரைவான பதில் குறியீடுகள் ஸ்கேன் இல்லை! இங்கே உள்ளீடுகளை பார்க்க ஒரு QR குறியீட்டை ஸ்கேன் செய்யவும்",,noHistoryUseScan,,"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here"
+"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes","நீங்கள் உங்கள் ஸ்கேன் நடவடிக்கை ஊனமுற்றோர் பதிவுசெய்யப்படுகிறது. அதனை இயக்க விரும்பினால், அமைப்புகள் பக்கத்தைப் பார்வையிடவும் அது மீண்டும் இயக்கும். SEQR பயன்பாட்டின் செயல்பாடு பதிவு இல்லாமல் எந்த பிரச்சனையும் இல்லாமல் வேலை தொடரும். குறியீடுகள் ஸ்கேன் கேமராவை கீழே ஸ்கேன் கிளிக்",,disableActivityMessage,,"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes"
+"SEQR is","SEQR உள்ளது",,onboardTitle0,,"SEQR is"
+"Always FREE","எப்போதும் இலவச",,onboardSubTitle0,,"Always FREE"
+"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.","ஸ்கேன் விரைவான பதில் குறியீடுகள் ஒரு பாதுகாப்பான வழிமுறைக்கு வரவேற்கிறோம்! SEQR நீங்கள் இப்போது க்யூ பின்னால் என்ன, குறியீடு பாதுகாப்பு குறித்து தகவல் தெரிவிக்க வேண்டும், அவை பாதுகாப்பானதா அல்லது அபாயமானது என்பதை பார்க்க முடியும்.",,onboardDescription0,,"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky."
+"Absolute Certainty in everyday transactions!","தினமும் பரிவர்த்தனைகளில் முழுமையான நிலைத்தன்மை!",,onboardTopContent1,,"Absolute Certainty in everyday transactions!"
+"How does it ","எப்படி அது",,onboardTitle1,,"How does it "
+WORK?,வேலை?,,onboardSubTitle1,,WORK?
+"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR, நீங்கள் ஸ்கேன் மற்றும் க்யூ குறியீடுகள் அனைத்து வகையான படிக்க முடியும். அது உள்ளார்ந்த பாதுகாப்பு அபாயங்களைக் கண்டறிய பல்வேறு ஆன்லைன் ஆதாரங்களில் இருந்து தகவல் பயன்படுத்தி பல காசோலைகளை செய்கிறது. அது குறியீடுகள் மற்றும் உள்ளடக்கம் நம்ப இல்லையா என்பதை பற்றி தகவலறிந்த முடிவுகளை எடுக்க நீங்கள் செயல்படுத்துகிறது.",,onboardDescription1,,"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
+"If you find a phishing web link, report it and help us make transactions safer","நீங்கள் ஃபிஷிங் இணையதள இணைப்பு கண்டால், அது குறித்து மற்றும் உதவி எங்களுக்கு பரிமாற்றங்கள் பாதுகாப்பாக வைப்பதற்கு",,onboardCenterContent2,,"If you find a phishing web link, report it and help us make transactions safer"
+"Join the movement for a","ஒரு இயக்கம் சேர",,onboardTitle2,,"Join the movement for a"
+"Safer Internet","பாதுகாப்பான இணைய",,onboardSubTitle2,,"Safer Internet"
+"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.","நீங்கள் ஒரு தவறாக வகைப்படுத்தலாம் தகவலைக் வந்து ஒவ்வொரு முறையும், மேலும் மக்கள் ஆன்லைனில் பாதுகாப்பாக இருக்க உதவும் அது குறித்து புகார் அளியுங்கள்.",,onboardDescription2,,"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online."
+"Proceeding without access","அணுகல் இல்லாமல் மேலே செல்வதற்கு",,permProceedWithout,,"Proceeding without access"
+"SEQR needs access to ","SEQR அணுக வேண்டியுள்ளது",,permSeqrAsk,,"SEQR needs access to "
+Deny,மறு,,permDeny,,Deny
+Camera,"புகைப்பட கருவி",,permAccessCamera,,Camera
+"to scan QR Codes","க்யூ குறியீடுகள் ஸ்கேன்",,permCameraReason,,"to scan QR Codes"
+"Storage,","சேமிப்பு,",,permAccessStorage,,"Storage,"
+"to read uploaded QR Code images","பதிவேற்றிய QR குறியீடு படங்களை கிரகித்துக் கொள்ளும்",,permStorageReason,,"to read uploaded QR Code images"
+Location,இருப்பிடம்,,locationLabel,,Location
+"to remind you of where a QR Code (in activity) was scanned","அங்கு ஒரு QR குறியீடு (செயல்பாடு) ஸ்கேன் செய்யப்பட்டது உங்களுக்கு ஞாபகப்படுத்த",,permLocationReason,,"to remind you of where a QR Code (in activity) was scanned"
+"Grant permissions","அனுமதிகளை வழங்கு",,permGrant,,"Grant permissions"
+"(Not Secure!)","(பாதுகாப்பான இல்லை!)",,dBtnWarning,,"(Not Secure!)"
+(Dangerous!),(ஆபத்தான!),,dBtnRisky,,(Dangerous!)
+"Copied QR Content","நகலெடுக்கப்பட்டன க்யூ உள்ளடக்க",,dQrContentCopied,,"Copied QR Content"
+"Translated Text","மொழிபெயர்க்கப்பட்ட உரை",,dTranslatedText,,"Translated Text"
+"No Camera Access","கேமரா இல்லை அணுகல்",,scanNoCameraAccess,,"No Camera Access"
+"Without access to the Camera, SEQR can't scan QR Codes","கேமரா அணுகல் இல்லாமல், SEQR இல்லை ஸ்கேன் க்யூ குறியீடுகள் முடியும்",,scanNoCameraAccessDetail,,"Without access to the Camera, SEQR can't scan QR Codes"
+"Timeout. No QRs Scanned","நேரம் முடிந்தது. இல்லை QRS ஸ்கேன்",,scanTimeout,,"Timeout. No QRs Scanned"
+"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.
+
+Keeping the camera on for long may drain battery.
+Opening the Activity tab.","கடைசி 30 விநாடிகள் எந்த குறியீடுகள் ஸ்கேன் இல்லை, ஸ்கேன் தாவலை மீண்டும் நீங்கள் ஸ்கேன் செய்யத் தயாராக இருக்கும் போது. \ n \ n நீண்ட பேட்டரியைத் இருக்கலாம் கேமரா nKeeping. \ நடவடிக்கை தாவலை nOpening.",,scanTimeoutText,,"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.
+
+Keeping the camera on for long may drain battery.
+Opening the Activity tab."
+"Find a code to scan","ஸ்கேன் ஒரு குறியீடு காணவும்",,scanQrHint,,"Find a code to scan"
+"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR ஸ்கேன் மற்றும் க்யூ குறியீடுகள் அனைத்து வகையான படித்து நீங்கள் காணும் என்று பாதுகாப்பற்ற உள்ளடக்கத்தை அடையாளம் வடிவமைக்கப்பட்டுள்ளது. அது உள்ளார்ந்த பாதுகாப்பு அபாயங்களைக் கண்டறிய பல்வேறு ஆன்லைன் ஆதாரங்களில் இருந்து தகவலைப் பயன்படுத்தி கூடுதலாக பல காசோலைகளை செய்கிறது. அது குறியீடுகள் மற்றும் உள்ளடக்கம் நம்ப இல்லையா என்பதை பற்றி தகவலறிந்த முடிவுகளை எடுக்க நீங்கள் செயல்படுத்துகிறது.",,settingAboutSEQR,,"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
+"Safe Browsing","பாதுகாப்பு உலாவல்",,settingSafeAdvisory,,"Safe Browsing"
+"Terms of Service","சேவை விதிமுறைகள்",,settingUserAgreement,,"Terms of Service"
+"Privacy Policy","தனியுரிமை கொள்கை",,settingPrivacyPolicy,,"Privacy Policy"
+"About Dhiway","Dhiway பற்றி",,settingAboutDhiway,,"About Dhiway"
+"Select your language","உங்கள் மொழியைத் தேர்ந்தெடுங்கள்",,settingLangChange,,"Select your language"
+"Activity as default screen","இயல்பான திரைப் போன்ற நடவடிக்கை",,defaultscreentext,,"Activity as default screen"
+"Record Activity","பதிவு நடவடிக்கை",,Historyneedtext,,"Record Activity"
+English,ஆங்கிலம்,,English,,English
+Kannada,கன்னடம்,,Kannada,,Kannada
+Malayalam,மலையாளம்,,Malayalam,,Malayalam
+Bengali,பெங்காலி,,Bengali,,Bengali
+Hindi,இந்தி,,Hindi,,Hindi
+"Book ISBN","புத்தக ஐஎஸ்பிஎன்",,bookQR,,"Book ISBN"
+"The code you scanned contains the following detail","நீங்கள் ஸ்கேன் குறியீடு பின்வரும் விபரம் கொண்டிருக்கிறது",,textQR,,"The code you scanned contains the following detail"
+Event,நிகழ்வு,,eventLabel,,Event
+Name,பெயர்,,nameLabel,,Name
+Address,முகவரி,,addressLabel,,Address
+Amount,தொகை,,amountLabel,,Amount
+Payment,கொடுப்பனவு,,paymentLabel,,Payment
+Date,தேதி,,dateLabel,,Date
+"Starts at","மணிக்குத் தொடங்கும்",,startsAtLabel,,"Starts at"
+Email,மின்னஞ்சல்,,emailLabel,,Email
+"Phone number","தொலைபேசி எண்",,phoneNumberLbl,,"Phone number"
+SMS,எஸ்எம்எஸ்,,smsLabel,,SMS
+Recipient,பெறுநரின்,,recipientLabel,,Recipient
+"Text message","உரை சேதி",,textMsgLabel,,"Text message"
+"Compose text message","எழுது உரை செய்தி",,composeSmsBtn,,"Compose text message"
+"Add to Calendar","காலெண்டரில் சேர்க்கவும்",,addToCalendarBtn,,"Add to Calendar"
+"Call Organizer","கால் அமைப்பாளர்",,callOrganizerBtn,,"Call Organizer"
+"Save Location to Maps","வரைபடங்கள், இருப்பிட சேமி",,addLocationBtn,,"Save Location to Maps"
+"Send Email","மின்னஞ்சல் அனுப்பு",,sendEmailBtn,,"Send Email"
+"Payment Link","கொடுப்பனவு இணைப்பு",,modalPaymentDetails,,"Payment Link"
+"No Unsafe Content Found.","இல்லை பாதுகாப்பற்ற உள்ளடக்கத்தைக் கண்டறிந்தேன்.",,threatTypeSafe,,"No Unsafe Content Found."
+"Not Secure - Probably Risky","இல்லை பாதுகாப்பான - ரிஸ்கி ஒருவேளை",,threatTypeNotSecure,,"Not Secure - Probably Risky"
+"Dangerous - Avoid this Site","ஆபத்தான - இந்த தள தவிர்க்க",,threatTypeUnSafe,,"Dangerous - Avoid this Site"
+"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.","நீங்கள் தளத்தில் மூலம் அனுப்பவோ அல்லது பெறவோ தகவல் பாதுகாப்பானது. தனியார் தகவலைப் பகிரும்போது தளத்தில் பாதுகாப்பான கொடியிடப்பட்டதும் கூட, எப்போதும் கவனமாக இருக்க. நிச்சயமாக நீங்கள் பார்வையிட விரும்பும் தளத்தில் இருக்கும் செய்ய முகவரி பட்டியில் பாருங்கள்.",,safeType,,"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit."
+"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend.","இத்தளம் பாதுகாப்பற்ற போன்ற குறிக்கப்பட்டது. இந்த தளத்தில் மென்பொருளை நிறுவுதல் அல்லது (உதாரணமாக, கடவுச்சொற்கள், ஃபோன் எண்கள் அல்லது கிரெடிட் கார்டுகள் போன்றவை) உங்கள் தனிப்பட்ட தகவல்களை வெளியிடச் செய்தல் போன்ற ஆபத்தான செயல்களைச் செய்யும்படி ஏமாற்ற முடியும் அல்லது எண்ணம் இல்லை என்று விஷயங்களை செய்ய உங்கள் சாதனத்தைப் பயன்படுத்த அறிவது போன்றவை.",,unSafeType,,"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend."
+"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site.","இத்தளம் பாதுகாப்பான இணைப்பைப் வழங்காது. யாரோ பார்க்க அல்லது இந்தத் தளத்தை மூலம் அனுப்ப மற்றும் பெற தகவல் மாற்ற முடியும். நாம் இந்தப் பக்கத்தில் நீங்கள் எந்த தனிப்பட்ட அல்லது தனிநபர் தகவலை உள்ளிட அவை கூறுகின்றன. முடிந்தால், தளத்தில் பயன்படுத்த வேண்டாம்.",,notSecureType,,"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site."
+"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ","நாம் இணைய தளம் அடைய முடியவில்லை. இப்பக்கம் இல்லை அல்லது வேறு சில பயங்கரமான பிழை ஏற்பட்டுள்ளது.",,typeErrorSiteNotFound,,"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. "
+"We're working on getting this fixed as soon as we can. Please try again later.","எங்களால் முடிந்தமட்டில் விரைவில் இதை சரி செய்ய, நாங்கள் உழைத்துகொண்டிருக்கிறோம். பின்னர் மீண்டும் முயற்சிக்கவும்.",,typeErrorFailure,,"We're working on getting this fixed as soon as we can. Please try again later."
+"No Internet Connection. Check your network settings and try again.","இணைய இணைப்பு இல்லை. உங்கள் பிணைய அமைப்புகளைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.",,typeErrorNoConnection,,"No Internet Connection. Check your network settings and try again."
+"Information you send or get through the site is secure.
+
+Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.","தகவல் நீங்கள் அனுப்பும் அல்லது தளத்தில் பாதுகாப்பானது மூலம் கிடைக்கும். \ N \ n Neven தனியார் தகவலைப் பகிரும்போது இந்தச் செய்தியைப் பார்த்தால் கூட, எப்போதும் கவனமாக இருக்க. நிச்சயமாக நீங்கள் பார்வையிட விரும்பும் தளத்தில் இயங்குகிறார்களா என்பதைச் முகவரி பட்டியில் பாருங்கள்.",,modalSafeDetails,,"Information you send or get through the site is secure.
+
+Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
+"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.
+
+We suggest you don't enter any private or personal information on this page.
+
+If possible, don't use the site.","இத்தளம் பாதுகாப்பான இணைப்பைப் வழங்க முடியாது. யாரோ பார்க்க அல்லது இந்தத் தளத்தை மூலம் அனுப்ப அல்லது பெற தகவலை மாற்ற முடியும். \ N \ n இந்த பக்கத்தில் எந்த தனிப்பட்ட அல்லது தனிநபர் தகவலை உள்ளிட அவை கூறுகின்றன. \ N \ n சாத்தியம், தளத்தில் பயன்படுத்த வேண்டாம்.",,modalNotSecureDetails,,"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.
+
+We suggest you don't enter any private or personal information on this page.
+
+If possible, don't use the site."
+"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.","இந்த தளத்தில் மென்பொருளை நிறுவுதல் அல்லது (உதாரணமாக, கடவுச்சொற்கள், ஃபோன் எண்கள் அல்லது கிரெடிட் கார்டுகள் போன்றவை) உங்கள் தனிப்பட்ட தகவல்களை வெளியிடச் செய்தல் போன்ற ஆபத்தான செயல்களைச் செய்யும்படி ஏமாற்ற முடியும் அல்லது எண்ணம் இல்லை என்று விஷயங்களை செய்ய உங்கள் கணினியில் பயன்படுத்த அறிவது போன்றவை.",,modalUnSafeDetails,,"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend."
+"This info was last updated on {{date}}.","இந்தத் தகவல் கடந்த இல் புதுப்பிக்கப்பட்டன {{தேதி}}.",,messageLastUpdated,,"This info was last updated on {{date}}."
+"Site safety can change over time. Check back for updates.","தள பாதுகாப்பு மீது நேரத்தை மாற்ற முடியும். புதுப்பிப்பதற்கு வந்து பார்க்கவும்.",,messageSiteSaftey,,"Site safety can change over time. Check back for updates."
+"Slow or no Internet connection, Please check your internet settings.","ஸ்லோ அல்லது இணைய இணைப்பு, உங்கள் இணைய அமைப்புகளைச் சரிபார்க்கவும்.",,internetError,,"Slow or no Internet connection, Please check your internet settings."
+Whoops,அச்சச்சோ,,internetErrorHead,,Whoops
+"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","இந்த QR VPA முகவரியுடன் ஊதியத்தின் ரூபாய் {{amountToPay}} க்கு இணைப்பைப் {{merchantName}} கொண்டுள்ளது {{MerchantId}}. நீங்கள் விரும்பினால் பணம் அனுப்ப எந்த கட்டணம் பயன்பாடுகளைப் பயன்படுத்தலாம்.",,upiDetailWithPaymentText,,"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","இந்த QR ஊதியம் {{merchantName}} VPA முகவரியுடன் க்கு இணைப்பு கொண்டிருக்கக்கூடிய {{MerchantId}}. நீங்கள் விரும்பினால் பணம் அனுப்ப எந்த கட்டணம் பயன்பாடுகளைப் பயன்படுத்தலாம்.",,upiDetailText,,"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+"We're working on getting this fixed as soon as we can. Please try again later.",," प्रयास करें।",typeErrorFailure,,
