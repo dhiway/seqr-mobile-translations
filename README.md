@@ -10,16 +10,13 @@ It is advised that you install [Dhiway's SEQR App](https://dhiway.com/seqr) firs
 
 All translations are present in `locale/` directory. The files inside are created in a key value type of manner (`.csv` format). Make sure that you are not altering `key` in any of your translation, as the keys are used in the code to pick the corresponding translation.
 
-
 ### New translation
 
 Pick a language you want to contribute. Pick a language you would like to translate. Copy the `English.csv` file as `YourLanguage.csv` file. Provide translations to as many keys as possible.
 
-
 ### Making edits
 
 If there is already a translation exists for the language you want to contribute, do check in the file, and see if it can be improved further.
-
 
 ## Reviews and Merges
 
