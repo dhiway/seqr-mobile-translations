@@ -8,8 +8,8 @@
     },
 
     "activity": {
-      "noHistoryUseScan": "Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here",
-      "disableActivityMessage": "You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes"
+      "noDataUseScan": "Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here",
+      "disabledMessage": "You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes"
     },
 
     "onboard": {
@@ -130,7 +130,8 @@
 
     "upi": {
       "detailWithPaymentText": "This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.",
-      "detailText": "This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+      "detailText": "This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.",
+      "linkText": "Payment Link"
     }
   }
 }
