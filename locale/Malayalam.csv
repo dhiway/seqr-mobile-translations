@@ -1,52 +1,62 @@
 Scan,സ്കാൻ,,"Scan ",,Scan
 Settings,ക്രമീകരണങ്ങൾ,,Settings,,Settings
 Activity,പ്രവർത്തനം,,Activity,,Activity
-"SEQR by DHIWAY","ധിവയ് പ്രകാരം സെക്ര്",,seqrByDhiway,,"SEQR by DHIWAY"
-"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here","നിങ്ങൾ തോന്നുന്നു ഇതുവരെ ഒരു ഒന്നരലക്ഷം കോഡുകൾ സ്കാൻ ചെയ്തിട്ടില്ല! ഇവിടെ എൻട്രികൾ കാണാൻ ഒരു QR കോഡ് സ്കാൻ ചെയ്യുക",,noHistoryUseScan,,"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here"
-"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes","നിങ്ങളുടെ സ്കാൻ പ്രവർത്തനം രേഖപ്പെടുത്തൽ അപ്രാപ്തമാക്കി. ഇത് പ്രവർത്തനക്ഷമമാക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, അത് വീണ്ടും പ്രവർത്തനക്ഷമമാക്കാൻ ക്രമീകരണങ്ങൾ പേജ് സന്ദർശിക്കുക. സെക്ര് അപ്ലിക്കേഷൻ പ്രവർത്തനം റെക്കോർഡിംഗ് ഇല്ലാതെ ഏതെങ്കിലും പ്രശ്നം ഇല്ലാതെ തുടർന്നും പ്രവർത്തിക്കും. കോഡുകൾ സ്കാൻ ചെയ്യാൻ ക്യാമറ തുറക്കുക സ്കാൻ ക്ലിക്ക് താഴെ",,disableActivityMessage,,"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes"
-"SEQR is","സെക്ര് അതായത്",,onboardTitle0,,"SEQR is"
-"Always FREE",എപ്പോഴും,,onboardSubTitle0,,"Always FREE"
-"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.","സ്കാൻ ഒന്നരലക്ഷം കോഡുകൾ ഒരു സുരക്ഷിത വഴി സ്വാഗതം! സെക്ര് കൊണ്ട് ഇനി ഒന്നരലക്ഷം പിന്നിലുമുള്ള കാണുക, കോഡ് സുരക്ഷയെക്കുറിച്ച് അറിയിച്ചു കഴിയും, അത് സുരക്ഷിതമാണെന്ന് അല്ലെങ്കിൽ മാറഡോണ എന്ന്.",,onboardDescription0,,"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky."
-"Absolute Certainty in everyday transactions!","ദൈനംദിന വ്യവഹാരങ്ങളിൽ പൂർണ്ണമായി!",,onboardTopContent1,,"Absolute Certainty in everyday transactions!"
-"How does it ","എങ്ങനെ ചെയ്യുന്ന",,onboardTitle1,,"How does it "
-WORK?,വർക്ക്?,,onboardSubTitle1,,WORK?
-"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","സെക്ര് കൊണ്ട് നിങ്ങൾ ഒന്നരലക്ഷം കോഡുകൾ എല്ലാത്തരം സ്കാൻ വായിക്കാനും. ഇത് സാധ്യതയുള്ള സുരക്ഷാ പ്രശ്നങ്ങളും തിരിച്ചറിയാൻ വിവിധ ഓൺലൈൻ നിന്നുള്ള വിവരങ്ങൾ ഉപയോഗിച്ച് നിരവധി പരിശോധനകൾ നടത്തുന്നു. അതു കോഡുകൾ ഉള്ളടക്കവും വിശ്വസിക്കാൻ വേണ്ടയോ എന്ന് കുറിച്ചുള്ള തീരുമാനങ്ങൾ എടുക്കുന്നതിന് നിങ്ങളെ പ്രാപ്തമാക്കുന്നു.",,onboardDescription1,,"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
-"If you find a phishing web link, report it and help us make transactions safer","നിങ്ങൾ ഒരു ഫിഷിംഗ് വെബ് ലിങ്ക് കണ്ടെത്തുകയാണെങ്കിൽ, ഞങ്ങൾക്ക് ഇടപാടുകൾ സുരക്ഷിതമാക്കുന്നതിന് അത് സഹായവും റിപ്പോർട്ട്",,onboardCenterContent2,,"If you find a phishing web link, report it and help us make transactions safer"
-"Join the movement for a","ഒരു മൂവ്മെന്റ് ചേരുക",,onboardTitle2,,"Join the movement for a"
-"Safer Internet","സുരക്ഷിതമായ ഇന്റർനെറ്റ്",,onboardSubTitle2,,"Safer Internet"
-"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.","നിങ്ങൾ ഒരു തെറ്റായി ഗണത്തിൽ വിവരങ്ങൾ അവരൊന്നും ഓരോ തവണ കൂടുതൽ ആളുകൾ ഓൺലൈൻ സുരക്ഷിതമാക്കുന്നതിന് തുടരാൻ സഹായിക്കുന്ന റിപ്പോർട്ട് ചെയ്യുക.",,onboardDescription2,,"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online."
+"SEQR by DHIWAY","ധിവയ് പ്രകാരം SEQR",,seqrByDhiway,,"SEQR by DHIWAY"
+"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here","നിങ്ങൾ  ഇതുവരെ ഒരു QR കോഡുകളുംസ്കാൻ ചെയ്തിട്ടില്ലെന്ന് തോന്നുന്നു! ഇവിടെ എൻട്രികൾ കാണാൻ ഒരു QR കോഡ് സ്കാൻ ചെയ്യുക",,noHistoryUseScan,,"Looks like you have not scanned any QR codes yet! Please scan a QR code to see entries here"
+"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes","നിങ്ങളുടെ സ്കാൻ പ്രവർത്തനത്തിന്റെ റെക്കോർഡിംഗ് നിങ്ങൾ അപ്രാപ്തമാക്കി. ഇത് പ്രവർത്തനക്ഷമമാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, അത് വീണ്ടും പ്രവർത്തനക്ഷമമാക്കാൻ ക്രമീകരണ പേജ് സന്ദർശിക്കുക. ആക്റ്റിവിറ്റി റെക്കോർഡിംഗ് ഇല്ലാതെ തന്നെ SEQR അപ്ലിക്കേഷൻ ഒരു പ്രശ്നവുമില്ലാതെ പ്രവർത്തിക്കുന്നത് തുടരും. കോഡുകൾ സ്കാൻ ചെയ്യുന്നതിന് ക്യാമറ തുറക്കുന്നതിന് ചുവടെയുള്ള സ്കാൻ ക്ലിക്കുചെയ്യുക",,disableActivityMessage,,"You have disabled recording of your scan activity. If you wish to enable it, please visit Settings page to re-enable it. SEQR App will continue to work without any problem without activity recording. Click on Scan below to open camera to scan the codes"
+"SEQR is",SEQR,,onboardTitle0,"'is always free' = എല്ലായ്പ്പോഴും സൗജന്യമാണ്","SEQR is"
+"Always FREE","എല്ലായ്പ്പോഴും സൗജന്യമാണ്",,onboardSubTitle0,,"Always FREE"
+"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky.","QR കോഡുകൾ സ്കാൻ ചെയ്യുന്നതിനുള്ള ഒരു സുരക്ഷിത മാർഗത്തിലേക്ക് സ്വാഗതം! SEQR ഉപയോഗിച്ച് നിങ്ങൾക്ക് ഇപ്പോൾ QR ന് പിന്നിലുള്ളത് കാണാൻ കഴിയും, കോഡിന്റെ സുരക്ഷയെക്കുറിച്ചും അത് സുരക്ഷിതമാണോ അല്ലെങ്കിൽ അപകടകരമാണോ എന്നതിനെക്കുറിച്ചും അറിയാൻ കഴിയും.",,onboardDescription0,,"Welcome to a safe way to scan QR codes! With SEQR you can now see what is behind the QR, be informed about the security of the code, and whether it is safe or risky."
+"Absolute Certainty in everyday transactions!","ദൈനംദിന ഇടപാടുകളിൽ സമ്പൂർണ്ണ ഉറപ്പ്!",,onboardTopContent1,,"Absolute Certainty in everyday transactions!"
+"How does it ","ഇത് എങ്ങനെ",,onboardTitle1,,"How does it "
+WORK?,പ്രവർത്തിക്കുന്നു?,,onboardSubTitle1,,WORK?
+"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","SEQR ഉപയോഗിച്ച്, നിങ്ങൾക്ക് എല്ലാത്തരം QR കോഡുകളും സ്കാൻ ചെയ്യാനും വായിക്കാനും കഴിയും. സുരക്ഷാ അപകടസാധ്യതകൾ തിരിച്ചറിയുന്നതിന് വിവിധ ഓൺലൈൻ ഉറവിടങ്ങളിൽ നിന്നുള്ള വിവരങ്ങൾ ഉപയോഗിച്ച് ഇത് നിരവധി പരിശോധനകൾ നടത്തുന്നു. കോഡുകളെയും ഉള്ളടക്കത്തെയും വിശ്വസിക്കണോ വേണ്ടയോ എന്ന് തീരുമാനമെടുക്കാൻ ഇത് നിങ്ങളെ പ്രാപ്‌തമാക്കുന്നു."",
+",,onboardDescription1,,"With SEQR, you can scan and read all kinds of QR Codes. It performs several checks using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
+"If you find a phishing web link, report it and help us make transactions safer","നിങ്ങൾ ഒരു ഫിഷിംഗ് വെബ് ലിങ്ക് കണ്ടെത്തുകയാണെങ്കിൽ, അത് റിപ്പോർട്ടുചെയ്ത് ഇടപാടുകൾ സുരക്ഷിതമാക്കാൻ ഞങ്ങളെ സഹായിക്കുക",,onboardCenterContent2,,"If you find a phishing web link, report it and help us make transactions safer"
+"Join the movement for a","ഒരു മൂവ്മെന്റ് ചേരുക",,onboardTitle2,"join the movement for a safer internet- can be split into 
+1) safer internet -സുരക്ഷിതമായ ഇന്റർനെറ്റിനായി 
+2) join the movement- പ്രസ്ഥാനത്തിൽ ചേരുക","Join the movement for a"
+"Safer Internet","സുരക്ഷിത 
+ഇന്റർനെറ്റിനായി",,onboardSubTitle2,,"Safer Internet"
+"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online.","ഓരോ തവണയും തെറ്റായി വർഗ്ഗീകരിച്ച വിവരങ്ങൾ കാണുമ്പോൾ, കൂടുതൽ ആളുകളെ ഓൺലൈനിൽ സുരക്ഷിതമായി തുടരാൻ സഹായിക്കുന്നതിന് ദയവായി റിപ്പോർട്ടുചെയ്യുക.",,onboardDescription2,,"Each time you come across an incorrectly categorized information, please report it to help more people stay safer online."
 "Proceeding without access","ആക്സസ് ഇല്ലാതെ മുന്നോട്ടു",,permProceedWithout,,"Proceeding without access"
-"SEQR needs access to ","സെക്ര് ആക്സസ് ആവശ്യമാണ്",,permSeqrAsk,,"SEQR needs access to "
+"SEQR needs access to ","SEQR ന് ആക്സസ് ആവശ്യമാണ്",,permSeqrAsk,,"SEQR needs access to "
 Deny,നിരസിക്കുക,,permDeny,,Deny
-Camera,കാമറ,,permAccessCamera,,Camera
-"to scan QR Codes","സ്കാൻ ഒന്നരലക്ഷം കോഡുകൾ വരെ",,permCameraReason,,"to scan QR Codes"
+Camera,"
+ക്യാമറ",,permAccessCamera,,Camera
+"to scan QR Codes","
+QR കോഡുകൾ സ്കാൻ ചെയ്യുന്നതിന്",,permCameraReason,,"to scan QR Codes"
 "Storage,","സ്റ്റോറേജ്,",,permAccessStorage,,"Storage,"
 "to read uploaded QR Code images","അപ്ലോഡ് QR കോഡ് ചിത്രങ്ങൾ വായിക്കാൻ",,permStorageReason,,"to read uploaded QR Code images"
 Location,സ്ഥലം,,locationLabel,,Location
-"to remind you of where a QR Code (in activity) was scanned","അവിടെ ഒരു QR കോഡ് (പ്രവർത്തനത്തിൽ) സ്കാൻ ചെയ്തു ഓർമ്മിപ്പിക്കാൻ",,permLocationReason,,"to remind you of where a QR Code (in activity) was scanned"
-"Grant permissions",അനുമതികൾ,,permGrant,,"Grant permissions"
-"(Not Secure!)",(സുരക്ഷിതമല്ലാത്ത!),,dBtnWarning,,"(Not Secure!)"
-(Dangerous!),(അപകടകരമായ!),,dBtnRisky,,(Dangerous!)
-"Copied QR Content","പകർത്തി ഒന്നരലക്ഷം ഉള്ളടക്കം",,dQrContentCopied,,"Copied QR Content"
+"to remind you of where a QR Code (in activity) was scanned","ഒരു ക്യുആർ കോഡ് (പ്രവർത്തനത്തിൽ) എവിടെയാണ് സ്കാൻ ചെയ്തതെന്ന് നിങ്ങളെ ഓർമ്മിപ്പിക്കാൻ",,permLocationReason,,"to remind you of where a QR Code (in activity) was scanned"
+"Grant permissions","
+അനുമതികൾ അനുവദിക്കുക",,permGrant,,"Grant permissions"
+"(Not Secure!)",(സുരക്ഷിതമല്ല!),,dBtnWarning,,"(Not Secure!)"
+(Dangerous!),(അപകടകരമായത്!),,dBtnRisky,,(Dangerous!)
+"Copied QR Content","ക്യുആർ ഉള്ളടക്കം പകർത്തി",,dQrContentCopied,,"Copied QR Content"
 "Translated Text","വിവർത്തനം ചെയ്ത വാചകം",,dTranslatedText,,"Translated Text"
-"No Camera Access","ഇല്ല ക്യാമറ ആക്സസ്",,scanNoCameraAccess,,"No Camera Access"
-"Without access to the Camera, SEQR can't scan QR Codes","ക്യാമറ ആക്സസ് ഇല്ലാതെ, സെക്ര് സ്കാൻ ഒന്നരലക്ഷം കോഡുകൾ കഴിയില്ല",,scanNoCameraAccessDetail,,"Without access to the Camera, SEQR can't scan QR Codes"
-"Timeout. No QRs Scanned","ടൈം ഔട്ട്. ഇല്ല ക്ര്സ് Scanned",,scanTimeout,,"Timeout. No QRs Scanned"
+"No Camera Access","ക്യാമറ ആക്സസ് ഇല്ല",,scanNoCameraAccess,,"No Camera Access"
+"Without access to the Camera, SEQR can't scan QR Codes","ക്യാമറയിലേക്ക് ആക്‌സസ് ഇല്ലാതെ, SEQR ന് QR കോഡുകൾ സ്കാൻ ചെയ്യാൻ കഴിയില്ല",,scanNoCameraAccessDetail,,"Without access to the Camera, SEQR can't scan QR Codes"
+"Timeout. No QRs Scanned","ടൈം ഔട്ട്. QR- കൾ സ്‌കാൻ ചെയ്‌തിട്ടില്ല.",,scanTimeout,,"Timeout. No QRs Scanned"
 "Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.
 
 Keeping the camera on for long may drain battery.
-Opening the Activity tab.","കഴിഞ്ഞ 30 സെക്കൻഡിനുള്ളിൽ ഏതെങ്കിലും കോഡുകൾ സ്കാൻ അല്ല നിങ്ങൾ സ്കാൻ തയ്യാറാകുമ്പോൾ സ്കാൻ ടാബ് വീണ്ടും തുറക്കുക. \ N \ n നീണ്ട വേണ്ടി ക്യാമറ ന്കെഎപിന്ഗ് ബാറ്ററി തീർത്തേക്കാം. \ പ്രവർത്തന ടാബ് നൊപെനിന്ഗ്.",,scanTimeoutText,,"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.
+Opening the Activity tab.","അവസാന 30 സെക്കൻഡിനുള്ളിൽ ഒരു കോഡുകളും സ്കാൻ ചെയ്തിട്ടില്ല, നിങ്ങൾ സ്കാൻ ചെയ്യാൻ തയ്യാറാകുമ്പോൾ സ്കാൻ ടാബ് വീണ്ടും തുറക്കുക.
+
+ക്യാമറ ദീർഘനേരം നിലനിർത്തുന്നത് ബാറ്ററി കളയുന്നു.
+പ്രവർത്തന ടാബ് തുറക്കുന്നു.",,scanTimeoutText,,"Not scanned any codes in the last 30 seconds, reopen Scan tab when you are ready to scan.
 
 Keeping the camera on for long may drain battery.
 Opening the Activity tab."
 "Find a code to scan","സ്കാൻ ഒരു കോഡ് കണ്ടെത്തുക",,scanQrHint,,"Find a code to scan"
-"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","സെക്ര് ഓഫ് ഒന്നരലക്ഷം കോഡുകൾ എല്ലാത്തരം സ്കാൻ വായിക്കാനും നിങ്ങൾ കണ്ടെത്തുന്ന വേണ്ടി സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം തിരിച്ചറിയാൻ രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്. ഇത് സാധ്യതയുള്ള സുരക്ഷാ പ്രശ്നങ്ങളും തിരിച്ചറിയാൻ വിവിധ ഓൺലൈൻ നിന്നുള്ള വിവരങ്ങൾ ഉപയോഗിച്ച് പുറമേ നിരവധി പരിശോധനകൾ നടത്തുന്നു. അതു കോഡുകൾ ഉള്ളടക്കവും വിശ്വസിക്കാൻ വേണ്ടയോ എന്ന് കുറിച്ചുള്ള തീരുമാനങ്ങൾ എടുക്കുന്നതിന് നിങ്ങളെ പ്രാപ്തമാക്കുന്നു.",,settingAboutSEQR,,"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
+"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content.","എല്ലാത്തരം ക്യുആർ കോഡുകളും സ്കാൻ ചെയ്യാനും വായിക്കാനും നിങ്ങൾക്ക് ലഭിക്കാനിടയുള്ള സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം തിരിച്ചറിയാനുമാണ് SEQR രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്. സുരക്ഷാ അപകടസാധ്യതകൾ തിരിച്ചറിയുന്നതിന് വിവിധ ഓൺലൈൻ ഉറവിടങ്ങളിൽ നിന്നുള്ള വിവരങ്ങൾ ഉപയോഗിക്കുന്നതിന് പുറമേ ഇത് നിരവധി പരിശോധനകൾ നടത്തുന്നു. കോഡുകളെയും ഉള്ളടക്കത്തെയും വിശ്വസിക്കണോ വേണ്ടയോ എന്ന് തീരുമാനമെടുക്കാൻ ഇത് നിങ്ങളെ പ്രാപ്‌തമാക്കുന്നു.",,settingAboutSEQR,,"SEQR is designed to scan and read all kinds of QR Codes and identify unsafe content that you may come across. It performs several checks in addition to using information from various online sources to identify potential security risks. It enables you to make informed decisions about whether or not to trust the codes and content."
 "Safe Browsing","സുരക്ഷിത ബ്രൗസിംഗ്",,settingSafeAdvisory,,"Safe Browsing"
 "Terms of Service","സേവന നിബന്ധനകൾ",,settingUserAgreement,,"Terms of Service"
 "Privacy Policy",സ്വകാര്യതാനയം,,settingPrivacyPolicy,,"Privacy Policy"
 "About Dhiway","ധിവയ് കുറിച്ച്",,settingAboutDhiway,,"About Dhiway"
 "Select your language","നിങ്ങളുടെ ഭാഷ തിരഞ്ഞെടുക്കുക",,settingLangChange,,"Select your language"
-"Activity as default screen","സ്ഥിര സ്ക്രീൻ ആയി പ്രവർത്തനം",,defaultscreentext,,"Activity as default screen"
+"Activity as default screen","സ്ഥിര സ്ക്രീൻ ആയി Activity",,defaultscreentext,,"Activity as default screen"
 "Record Activity","റെക്കോർഡ് പ്രവർത്തനം",,Historyneedtext,,"Record Activity"
 English,ഇംഗ്ലീഷ്,,English,,English
 Kannada,കന്നഡ,,Kannada,,Kannada
@@ -54,8 +64,8 @@ Malayalam,മലയാളം,,Malayalam,,Malayalam
 Bengali,ബംഗാളി,,Bengali,,Bengali
 Hindi,ഹിന്ദി,,Hindi,,Hindi
 "Book ISBN","പുസ്തകം ISBN",,bookQR,,"Book ISBN"
-"The code you scanned contains the following detail","നിങ്ങൾ സ്കാൻ കോഡ് താഴെ വിശദമായി അടങ്ങിയിരിക്കുന്നു",,textQR,,"The code you scanned contains the following detail"
-Event,സംഭവം,,eventLabel,,Event
+"The code you scanned contains the following detail","നിങ്ങൾ സ്കാൻ ചെയ്ത കോഡിൽ ഇനിപ്പറയുന്ന വിശദാംശങ്ങൾ അടങ്ങിയിരിക്കുന്നു",,textQR,,"The code you scanned contains the following detail"
+Event,ഇവന്റ്,,eventLabel,,Event
 Name,പേര്,,nameLabel,,Name
 Address,വിലാസം,,addressLabel,,Address
 Amount,തുക,,amountLabel,,Amount
@@ -65,42 +75,48 @@ Date,തീയതി,,dateLabel,,Date
 Email,ഇമെയിൽ,,emailLabel,,Email
 "Phone number","ഫോൺ നമ്പർ",,phoneNumberLbl,,"Phone number"
 SMS,എസ്എംഎസ്,,smsLabel,,SMS
-Recipient,സീകരിക്കുന്നവള്,,recipientLabel,,Recipient
+Recipient,സ്വീകർത്താവ്,,recipientLabel,,Recipient
 "Text message","ടെക്സ്റ്റ് സന്ദേശം",,textMsgLabel,,"Text message"
 "Compose text message","കമ്പോസ് ടെക്സ്റ്റ് സന്ദേശം",,composeSmsBtn,,"Compose text message"
 "Add to Calendar","കലണ്ടർ ചേർക്കുക",,addToCalendarBtn,,"Add to Calendar"
 "Call Organizer","കോൾ ഓർഗനൈസർ",,callOrganizerBtn,,"Call Organizer"
-"Save Location to Maps","മാപ്സ് ലൊക്കേഷൻ സംരക്ഷിക്കുക",,addLocationBtn,,"Save Location to Maps"
+"Save Location to Maps","മാപ്‌സിലേക്ക് ലൊക്കേഷൻ സംരക്ഷിക്കുക",,addLocationBtn,,"Save Location to Maps"
 "Send Email","ഇമെയിൽ അയയ്ക്കുക",,sendEmailBtn,,"Send Email"
 "Payment Link","പേയ്മെന്റ് ലിങ്ക്",,modalPaymentDetails,,"Payment Link"
 "No Unsafe Content Found.","സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം കണ്ടെത്തിയില്ല.",,threatTypeSafe,,"No Unsafe Content Found."
 "Not Secure - Probably Risky","സുരക്ഷിതമല്ലാത്ത - ഒരുപക്ഷെ അപകടകരം",,threatTypeNotSecure,,"Not Secure - Probably Risky"
-"Dangerous - Avoid this Site","അപകടകരമായ - ഈ സൈറ്റ് ഒഴിവാക്കുക",,threatTypeUnSafe,,"Dangerous - Avoid this Site"
-"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.","നിങ്ങൾ സൈറ്റ് വഴി നേടാനോ വിവരങ്ങൾ സുരക്ഷിതവും. സ്വകാര്യ വിവരം പങ്കിടുമ്പോൾ സൈറ്റ് സുരക്ഷിതം ഫ്ലാഗ് പോലും, എപ്പോഴും ശ്രദ്ധിക്കുക. ഉറപ്പാണോ സന്ദർശിക്കാൻ താൽപ്പര്യപ്പെടുന്ന സൈറ്റിൽ ഉറപ്പാക്കുന്നതിന് വിലാസ ബാറിൽ നോക്കുക.",,safeType,,"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit."
+"Dangerous - Avoid this Site","അപകടകരമായത് - ഈ സൈറ്റ് ഒഴിവാക്കുക",,threatTypeUnSafe,,"Dangerous - Avoid this Site"
+"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit.","സൈറ്റ് വഴി നിങ്ങൾ അയയ്ക്കുന്നതോ സ്വീകരിക്കുന്നതോ ആയ വിവരങ്ങൾ സുരക്ഷിതമാണ്. സൈറ്റ് സുരക്ഷിതമായി ഫ്ലാഗുചെയ്‌തിട്ടുണ്ടെങ്കിലും, സ്വകാര്യ വിവരങ്ങൾ പങ്കിടുമ്പോൾ എപ്പോഴും ശ്രദ്ധിക്കുക. നിങ്ങൾ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്ന സൈറ്റിലാണെന്ന് ഉറപ്പാക്കാൻ വിലാസ(address) ബാർ നോക്കുക.",,safeType,,"Information you send or receive through the site is secure. Even if the site is flagged safe, always be careful when sharing private information. Look at the address bar to make sure you are on the site you want to visit."
 "This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend.","ഈ സൈറ്റ് സുരക്ഷിതമല്ലാത്ത ഫ്ലാഗുചെയ്തു. ഈ സൈറ്റ് സന്ദർശിക്കുന്നത് സോഫ്റ്റ്വെയർ ഇൻസ്റ്റാളുചെയ്യുന്നതോ സ്വകാര്യ വിവരങ്ങൾ പോലുള്ള അപകടകരമായ കാര്യങ്ങൾ ചെയ്യുന്നതിന് നിങ്ങളെ കബളിപ്പിക്കാൻ (ഉദാഹരണത്തിന്, പാസ്വേഡുകൾ, ഫോൺ നമ്പറുകൾ, ക്രെഡിറ്റ് കാർഡുകൾ) അല്ലെങ്കിൽ നിങ്ങൾ ഉദ്ദേശിക്കുന്നില്ല കാര്യങ്ങൾ ചെയ്യാൻ നിങ്ങളുടെ ഉപകരണം ഉപയോഗിക്കാം.",,unSafeType,,"This site has been flagged as unsafe. Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your device to do things that you do not intend."
 "This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site.","ഈ സൈറ്റ് ഒരു സുരക്ഷിത കണക്ഷൻ നൽകില്ല. ആരോ ഈ സൈറ്റ് വഴി അയയ്ക്കാനും സ്വീകരിക്കാനും വിവരങ്ങൾ കാണാനോ മാറ്റാൻ കഴിയും വേണ്ടി. ഞങ്ങൾ ഈ പേജിൽ ഏതെങ്കിലും സ്വകാര്യ വ്യക്തിഗത വിവരങ്ങൾ നൽകുക ചെയ്യരുത് നിർദ്ദേശിക്കുന്നു. കഴിയുമെങ്കിൽ, സൈറ്റ് ഉപയോഗിക്കരുത്.",,notSecureType,,"This site does not provide a secure connection. Someone might be able to see or change the information you send and receive through this site. We suggest you do not enter any private or personal information on this page. If possible, do not use the site."
-"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ","ഞങ്ങൾ വെബ് സൈറ്റ് എത്താൻ തോന്നുന്നു. ഈ താൾ നിലവിലില്ല അല്ലെങ്കിൽ മറ്റ് ചില ദുസ്വപ്നം പിശക് സംഭവിച്ചു.",,typeErrorSiteNotFound,,"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. "
-"We're working on getting this fixed as soon as we can. Please try again later.","ഞങ്ങൾക്ക് കഴിയുന്നത്ര വേഗം ഇത് പരിഹരിക്കാൻ ഞങ്ങൾ പരിശ്രമിക്കുകയാണ്. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.",,typeErrorFailure,,"We're working on getting this fixed as soon as we can. Please try again later."
-"No Internet Connection. Check your network settings and try again.","ഇന്റർനെറ്റ് കണക്ഷൻ. നിങ്ങളുടെ നെറ്റ്വർക്ക് ക്രമീകരണങ്ങൾ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.",,typeErrorNoConnection,,"No Internet Connection. Check your network settings and try again."
+"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ","ഞങ്ങൾക്ക് വെബ്‌സൈറ്റിൽ എത്താൻ കഴിയില്ല. ഈ പേജ് നിലവിലില്ല അല്ലെങ്കിൽ മറ്റെന്തെങ്കിലും ഭയാനകമായ പിശക് സംഭവിച്ചു",,typeErrorSiteNotFound,,"We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. "
+"We're working on getting this fixed as soon as we can. Please try again later.","ഞങ്ങൾക്ക് കഴിയുന്നത്ര വേഗം ഇത് പരിഹരിക്കാൻ  പരിശ്രമിക്കുകയാണ്. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.",,typeErrorFailure,,"We're working on getting this fixed as soon as we can. Please try again later."
+"No Internet Connection. Check your network settings and try again.","ഇന്റർനെറ്റ് കണക്ഷൻ ഇല്ല. നിങ്ങളുടെ നെറ്റ്വർക്ക് ക്രമീകരണങ്ങൾ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.",,typeErrorNoConnection,,"No Internet Connection. Check your network settings and try again."
 "Information you send or get through the site is secure.
 
-Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.","നിങ്ങൾ സൈറ്റ് വഴി അയയ്ക്കാനോ ലഭിക്കുന്ന വിവരങ്ങൾ സുരക്ഷിത. \ n \ നെവെന് സ്വകാര്യ വിവരം പങ്കിടുമ്പോൾ ഈ സന്ദേശം കണ്ടാൽ, എപ്പോഴും ശ്രദ്ധിക്കുക. നിങ്ങൾ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്ന സൈറ്റിൽ ഉറപ്പാക്കാൻ വിലാസ ബാറിൽ നോക്കുക.",,modalSafeDetails,,"Information you send or get through the site is secure.
+Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.","നിങ്ങൾ സൈറ്റിലൂടെ അയയ്ക്കുന്നതോ ലഭിക്കുന്നതോ ആയ വിവരങ്ങൾ സുരക്ഷിതമാണ്.
+
+നിങ്ങൾ ഈ സന്ദേശം കണ്ടാലും, സ്വകാര്യ വിവരങ്ങൾ പങ്കിടുമ്പോൾ എപ്പോഴും ശ്രദ്ധിക്കുക. നിങ്ങൾ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്ന സൈറ്റിലാണെന്ന് ഉറപ്പാക്കാൻ വിലാസ(address) ബാർ നോക്കുക.",,modalSafeDetails,,"Information you send or get through the site is secure.
 
 Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
 "This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.
 
 We suggest you don't enter any private or personal information on this page.
 
-If possible, don't use the site.","ഈ സൈറ്റ് ഒരു സുരക്ഷിത കണക്ഷൻ നൽകാൻ കഴിയില്ല. ആരോ നീ അയക്കുന്ന വിവരങ്ങൾ കാണാനോ മാറ്റാനോ ഈ സൈറ്റ് വഴിയാണ് കഴിയും. \ N \ രീതിയെ ഈ പേജിൽ ഏതെങ്കിലും സ്വകാര്യ വ്യക്തിഗത വിവരങ്ങൾ നൽകുക ചെയ്യരുത് നിർദ്ദേശിക്കുന്നു. \ N \ n സാധ്യത നൽകാൻ, സൈറ്റ് ഉപയോഗിക്കരുത്.",,modalNotSecureDetails,,"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.
+If possible, don't use the site.","ഈ സൈറ്റിന് ഒരു സുരക്ഷിത കണക്ഷൻ നൽകാൻ കഴിയില്ല. നിങ്ങൾ‌ അയയ്‌ക്കുന്ന അല്ലെങ്കിൽ‌ ഈ സൈറ്റിലൂടെ ലഭിക്കുന്ന വിവരങ്ങൾ‌ മറ്റൊരാൾ‌ക്ക് കാണാനോ മാറ്റാനോ കഴിയും.
+
+ഈ പേജിൽ സ്വകാര്യമോ വ്യക്തിഗതമോ ആയ വിവരങ്ങളൊന്നും നൽകരുതെന്ന് ഞങ്ങൾ നിർദ്ദേശിക്കുന്നു.
+
+കഴിയുമെങ്കിൽ, സൈറ്റ് ഉപയോഗിക്കരുത്.",,modalNotSecureDetails,,"This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site.
 
 We suggest you don't enter any private or personal information on this page.
 
 If possible, don't use the site."
-"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.","ഈ സൈറ്റ് സന്ദർശിക്കുന്നത് സോഫ്റ്റ്വെയർ ഇൻസ്റ്റാളുചെയ്യുന്നതോ സ്വകാര്യ വിവരങ്ങൾ പോലുള്ള അപകടകരമായ കാര്യങ്ങൾ ചെയ്യുന്നതിന് നിങ്ങളെ കബളിപ്പിക്കാൻ (ഉദാഹരണത്തിന്, പാസ്വേഡുകൾ, ഫോൺ നമ്പറുകൾ, ക്രെഡിറ്റ് കാർഡുകൾ) അല്ലെങ്കിൽ നിങ്ങൾ ഉദ്ദേശിക്കുന്നില്ല കാര്യങ്ങൾ ചെയ്യാൻ നിങ്ങളുടെ കമ്പ്യൂട്ടറിൽ ഉപയോഗിക്കാം.",,modalUnSafeDetails,,"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend."
-"This info was last updated on {{date}}.","ഈ വിവരം കഴിഞ്ഞ {{തീയതി}} ന് അപ്ഡേറ്റ് ചെയ്തിട്ടുണ്ട്.",,messageLastUpdated,,"This info was last updated on {{date}}."
+"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.","ഈ സൈറ്റ് സന്ദർശിക്കുന്നത് സോഫ്റ്റ്വെയർ ഇൻസ്റ്റാൾ ചെയ്യുകയോ നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങൾ വെളിപ്പെടുത്തുകയോ പോലുള്ള അപകടകരമായ എന്തെങ്കിലും ചെയ്യാൻ നിങ്ങളെ കബളിപ്പിച്ചേക്കാം (ഉദാഹരണത്തിന്, പാസ്‌വേഡുകൾ, ഫോൺ നമ്പറുകൾ അല്ലെങ്കിൽ ക്രെഡിറ്റ് കാർഡുകൾ) അല്ലെങ്കിൽ നിങ്ങൾ ഉദ്ദേശിക്കാത്ത കാര്യങ്ങൾ ചെയ്യാൻ നിങ്ങളുടെ കമ്പ്യൂട്ടർ ഉപയോഗിക്കുക.",,modalUnSafeDetails,,"Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend."
+"This info was last updated on {{date}}.","ഈ വിവരം കഴിഞ്ഞ {{date}} ന് അപ്ഡേറ്റ് ചെയ്തിട്ടുണ്ട്.",,messageLastUpdated,,"This info was last updated on {{date}}."
 "Site safety can change over time. Check back for updates.","സൈറ്റ് സുരക്ഷാ കാലക്രമേണ മാറ്റാനാകും. അപ്ഡേറ്റുകൾ പരിശോധിക്കുക.",,messageSiteSaftey,,"Site safety can change over time. Check back for updates."
-"Slow or no Internet connection, Please check your internet settings.","സ്ലോ അല്ലെങ്കിൽ ഇന്റർനെറ്റ് കണക്ഷൻ, ദയവായി നിങ്ങളുടെ ഇന്റർനെറ്റ് ക്രമീകരണങ്ങൾ പരിശോധിക്കുക.",,internetError,,"Slow or no Internet connection, Please check your internet settings."
+"Slow or no Internet connection, Please check your internet settings.","സ്ലോ അല്ലെങ്കിൽ ഇന്റർനെറ്റ് കണക്ഷൻ ഇല്ല, ദയവായി നിങ്ങളുടെ ഇന്റർനെറ്റ് ക്രമീകരണങ്ങൾ പരിശോധിക്കുക.",,internetError,,"Slow or no Internet connection, Please check your internet settings."
 Whoops,ക്ഷമിക്കണം,,internetErrorHead,,Whoops
-"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ഈ QR വ്പ വിലാസം {{മെര്ഛംതിദ്}} പേ രൂപ വരെ {{അമൊഉംത്തൊപയ്}} {{മെര്ഛംത്നമെ}} ഒരു ലിങ്ക് അടങ്ങിയിരിക്കുന്നു. നിങ്ങൾ ആഗ്രഹിക്കുന്നെങ്കിൽ നിങ്ങൾ പണം അയയ്ക്കാൻ ഏതെങ്കിലും പേയ്മെന്റ് അപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കാൻ കഴിയും.",,upiDetailWithPaymentText,,"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
-"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ഈ QR വ്പ വിലാസം {{മെര്ഛംതിദ്}} പേ {{മെര്ഛംത്നമെ}} ഒരു ലിങ്ക് അടങ്ങിയിരിക്കുന്നു. നിങ്ങൾ ആഗ്രഹിക്കുന്നെങ്കിൽ നിങ്ങൾ പണം അയയ്ക്കാൻ ഏതെങ്കിലും പേയ്മെന്റ് അപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കാൻ കഴിയും.",,upiDetailText,,"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
-"We're working on getting this fixed as soon as we can. Please try again later.",," प्रयास करें।",typeErrorFailure,,
+"This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ഈ VPA വിലാസം {{merchantId} with ഉള്ള INR {{amountToPay}} മുതൽ {{merchantName} pay അടയ്‌ക്കാനുള്ള ഒരു ലിങ്ക് ഈ QR- ൽ അടങ്ങിയിരിക്കുന്നു. നിങ്ങൾക്ക് വേണമെങ്കിൽ പണം അയയ്‌ക്കാൻ ഏത് പേയ്‌മെന്റ് അപ്ലിക്കേഷനുകളും ഉപയോഗിക്കാം",,upiDetailWithPaymentText,"Need to check this again","This QR contains a link to pay INR {{amountToPay}} to {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to.","ഈVPA വിലാസം {{merchantName}} പേ {{merchantId}} ഒരു ലിങ്ക് ഈ QR- ൽ അടങ്ങിയിരിക്കുന്നു. നിങ്ങൾ ആഗ്രഹിക്കുന്നെങ്കിൽ നിങ്ങൾ പണം അയയ്ക്കാൻ ഏതെങ്കിലും പേയ്മെന്റ് അപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കാൻ കഴിയും.",,upiDetailText,,"This QR contains a link to pay {{merchantName}} with VPA address {{merchantId}}. You can use any payment apps to send the money if you wish to."
+"We're working on getting this fixed as soon as we can. Please try again later.","ഞങ്ങൾക്ക് കഴിയുന്നത്ര വേഗം ഇത് പരിഹരിക്കാൻ പരിശ്രമിക്കുകയാണ്. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."," प्रयास करें।",typeErrorFailure,,
