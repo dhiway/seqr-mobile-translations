@@ -97,7 +97,8 @@
       "callOrganizerBtn": "Call Organizer",
       "addLocationBtn": "Save Location to Maps",
       "sendEmailBtn": "Send Email",
-      "qrContent": "Payment Link"
+      "qrContent": "Payment Link",
+      "searchHint": "Search"
     },
 
     "threat": {
