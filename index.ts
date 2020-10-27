@@ -14,6 +14,7 @@ import ja from "./locale/Japanese.json";
 import ko from "./locale/Korean.json";
 import ms from "./locale/Malay.json";
 import mr from "./locale/Marathi.json";
+import ne from "./locale/Nepali.json";
 import pa from "./locale/Punjabi.json";
 import pt from "./locale/Portuguese.json";
 import ru from "./locale/Russian.json";
@@ -50,4 +51,5 @@ export default {
   sw,
   ur,
   vi,
+  ne,
 };
