@@ -4,7 +4,8 @@
       "Scan": "Scan",
       "Settings": "die Einstellungen",
       "Activity": "Aktivität",
-      "seqrByDhiway": "SEQR von DHIWAY"
+      "seqrByDhiway": "SEQR von DHIWAY",
+      "LanguagePage": "Sprache wählen"
     },
     "activity": {
       "noDataUseScan": "Sie haben anscheinend noch keine QR-Codes gescannt! Bitte scannen Sie einen QR-Code, um Einträge hier zu sehen",
