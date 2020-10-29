@@ -4,7 +4,8 @@
       "Scan": "స్కాన్ చేయండి",
       "Settings": "సెట్టింగులు",
       "Activity": "కార్యాచరణ",
-      "seqrByDhiway": "DHIWAY చే SEQR"
+      "seqrByDhiway": "DHIWAY చే SEQR",
+      "LanguagePage": "భాషను ఎంచుకోండి"
     },
     "activity": {
       "noDataUseScan": "మీరు ఇంకా ఏ QR కోడ్‌లను స్కాన్ చేయలేదనిపిస్తోంది! దయచేసి ఇక్కడ ఎంట్రీలను చూడటానికి QR కోడ్‌ను స్కాన్ చేయండి",
