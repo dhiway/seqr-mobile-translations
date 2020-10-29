@@ -4,7 +4,8 @@
       "Scan": "numériser",
       "Settings": "Paramètres",
       "Activity": "Activité",
-      "seqrByDhiway": "SEQR par DHIWAY"
+      "seqrByDhiway": "SEQR par DHIWAY",
+      "LanguagePage": "Choisissez la langue"
     },
     "activity": {
       "noDataUseScan": "On dirait que vous n’avez pas encore scanné de codes QR! S’il vous plaît scanner un code QR pour voir les entrées ici",
