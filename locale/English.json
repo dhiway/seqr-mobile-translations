@@ -100,7 +100,8 @@
       "addLocationBtn": "Save Location to Maps",
       "sendEmailBtn": "Send Email",
       "qrContent": "Payment Link",
-      "searchHint": "Search"
+      "searchHint": "Search",
+      "continueLabel": "continue"
     },
 
     "threat": {
