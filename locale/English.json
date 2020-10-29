@@ -4,8 +4,7 @@
       "Scan": "Scan",
       "Settings": "Settings",
       "Activity": "Activity",
-      "seqrByDhiway": "SEQR by DHIWAY",
-      "LanguagePage" : "Choose Language"
+      "seqrByDhiway": "SEQR by DHIWAY"
     },
 
     "activity": {
@@ -65,8 +64,7 @@
       "aboutDhiway": "About Dhiway",
       "langChange": "Select your language",
       "defaultScreenPick": "Activity as default screen",
-      "recordActivity": "Record Activity",
-      "buttonName" : "Continue"
+      "recordActivity": "Record Activity"
     },
 
     "lang": {
@@ -102,7 +100,8 @@
       "addLocationBtn": "Save Location to Maps",
       "sendEmailBtn": "Send Email",
       "qrContent": "Payment Link",
-      "searchHint": "Search"
+      "searchHint": "Search",
+      "continueLabel": "Continue"
     },
 
     "threat": {
