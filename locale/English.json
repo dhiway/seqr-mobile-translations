@@ -64,7 +64,8 @@
       "aboutDhiway": "About Dhiway",
       "langChange": "Select your language",
       "defaultScreenPick": "Activity as default screen",
-      "recordActivity": "Record Activity"
+      "recordActivity": "Record Activity",
+      "language": "Language"
     },
 
     "lang": {
