@@ -65,7 +65,8 @@
       "langChange": "Select your language",
       "defaultScreenPick": "Activity as default screen",
       "recordActivity": "Record Activity",
-      "language": "Language"
+      "language": "Language",
+      "inActivityAlert": "Scanner Timeout"
     },
 
     "lang": {
