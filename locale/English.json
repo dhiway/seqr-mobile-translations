@@ -66,7 +66,7 @@
       "defaultScreenPick": "Activity as default screen",
       "recordActivity": "Record Activity",
       "language": "Language",
-      "inActivityAlert": "Switch if no Scan in 30s"
+      "inActivityAlert": "Scanner Timeout"
     },
 
     "lang": {
