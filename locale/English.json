@@ -45,7 +45,9 @@
       "btnWarning": "(Not Secure!)",
       "btnRisky": "(Dangerous!)",
       "qrContentCopied": "Copied QR Content",
-      "translatedText": "Translated Text"
+      "translatedText": "Translated Text",
+      "feedbackSuccess":"You have Successfully Submitted Feedback.Thank You",
+      "feedbackFailure": "Something went wrong...Please try again "
     },
 
     "scan": {
