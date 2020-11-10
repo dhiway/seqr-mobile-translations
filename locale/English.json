@@ -46,8 +46,9 @@
       "btnRisky": "(Dangerous!)",
       "qrContentCopied": "Copied QR Content",
       "translatedText": "Translated Text",
-      "feedbackSuccess":"You have Successfully Submitted Feedback.Thank You",
-      "feedbackFailure": "Something went wrong...Please try again "
+      "feedbackSuccess": "You have successfully submitted feedback. Thank You",
+      "feedbackFailure": "Failed to submit feedback at this time. Please try again in sometime",
+      "feedbackEmpty": "Oops! Your feedback didn't get through ... Please try again!"
     },
 
     "scan": {
