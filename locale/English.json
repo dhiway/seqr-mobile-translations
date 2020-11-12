@@ -45,9 +45,13 @@
       "btnWarning": "(Not Secure!)",
       "btnRisky": "(Dangerous!)",
       "qrContentCopied": "Copied QR Content",
-      "translatedText": "Translated Text"
+      "translatedText": "Translated Text",
+      "copyText" :"Copied  {{type}} to clipboard",
+      "feedbackPlaceholder":"What can we improvise",
+      "feedbackSuccess": "You have successfully submitted feedback. Thank You",
+      "feedbackFailure": "Failed to submit feedback at this time. Please try again in sometime",
+      "feedbackEmpty": "Oops! Your feedback didn't get through ... Please try again!"
     },
-
     "scan": {
       "noCameraAccess": "No Camera Access",
       "noCameraAccessDetail": "Without access to the Camera, SEQR can't scan QR Codes",
