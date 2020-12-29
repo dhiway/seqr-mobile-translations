@@ -107,7 +107,16 @@
       "qrContent": "Payment Link",
       "searchHint": "Search",
       "continueLabel": "Select and Continue",
-      "submitLabel": "SUBMIT"
+      "submitLabel": "SUBMIT",
+      "moreInformation": "Check transaction details"
+    },
+    "hashMarkInformation":
+    {
+      "CreatedBy" : "Created by",
+      "IssuedBy"   : "Issued by",
+      "CreatedAt"   :"Created at",
+      "HashLabel" :"Hash",
+      "Transaction" :"Transaction"
     },
 
     "threat": {
