@@ -110,13 +110,12 @@
       "submitLabel": "SUBMIT",
       "moreInformation": "Check transaction details"
     },
-    "hashMarkInformation":
-    {
-      "CreatedBy" : "Created by",
-      "IssuedBy"   : "Issued by",
-      "CreatedAt"   :"Created at",
-      "HashLabel" :"Hash",
-      "Transaction" :"Transaction"
+    "hashMarkInformation": {
+      "CreatedBy": "Created by",
+      "IssuedBy": "Issued by",
+      "CreatedAt": "Created at",
+      "HashLabel": "Hash",
+      "Transaction": "Transaction"
     },
 
     "threat": {
@@ -131,16 +130,16 @@
       "typeErrorSiteNotFound": "We can't seem to reach the web site. This page doesn't exist or some other horrible error has occurred. ",
       "typeErrorFailure": "We're working on getting this fixed as soon as we can. Please try again later.",
       "typeErrorNoConnection": "No Internet Connection. Check your network settings and try again.",
-      "hashCodeText" : "100% genuine -#Mark Verified",
-      "hashCodeDescription" :  "Information you send or get through the site is secure. Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
+      "hashCodeText": "100% genuine -#MARK Verified",
+      "hashCodeDescription": "Information you send or get through the site is secure. Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
     },
 
     "modal": {
       "safeDetails": "Information you send or get through the site is secure. Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.",
       "notSecureDetails": "This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site. We suggest you don't enter any private or personal information on this page. If possible, don't use the site.",
       "unSafeDetails": "Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.",
-      "blockChainContent":"BLOCKCHAIN VERIFIED",
-      "notVerified" : "# NOT VERIFIED"
+      "blockChainContent": "BLOCKCHAIN VERIFIED",
+      "notVerified": "# NOT VERIFIED"
     },
 
     "message": {
