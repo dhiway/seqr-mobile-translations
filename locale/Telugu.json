@@ -94,6 +94,13 @@
       "searchHint": "వెతకండి",
       "continueLabel": "ఎంచుకోండి మరియు కొనసాగించండి"
     },
+    "hashMarkInformation": {
+      "CreatedBy": "సృష్టికర్త",
+      "IssuedBy": "జారీ చేసింది",
+      "CreatedAt": "సృష్టి తేదీ",
+      "HashLabel": "హాష్",
+      "Transaction": "లావాదేవీ"
+    },
     "threat": {
       "typeSafe": "అసురక్షిత కంటెంట్ కనుగొనబడలేదు.",
       "typeNotSecure": "సురక్షితం కాదు - బహుశా ప్రమాదకరం",

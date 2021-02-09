@@ -113,7 +113,7 @@
     "hashMarkInformation": {
       "CreatedBy": "Created by",
       "IssuedBy": "Issued by",
-      "CreatedAt": "Created at",
+      "CreatedAt": "Created On",
       "HashLabel": "Hash",
       "Transaction": "Transaction"
     },

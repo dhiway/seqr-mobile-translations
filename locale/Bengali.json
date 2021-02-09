@@ -94,6 +94,13 @@
       "searchHint": "অনুসন্ধান করুন",
       "continueLabel": "নির্বাচন করুন এবং চালিয়ে যান"
     },
+    "hashMarkInformation": {
+      "CreatedBy": "দ্বারা সৃষ্টি",
+      "IssuedBy": "প্রদান করেছেন",
+      "CreatedAt": "তৈরি",
+      "HashLabel": "হ্যাশ",
+      "Transaction": "লেনদেন"
+    },
     "threat": {
       "typeSafe": "কোনও অনিরাপদ সামগ্রী পাওয়া যায় নি।",
       "typeNotSecure": "সুরক্ষিত নয় - সম্ভবত ঝুঁকিপূর্ণ",

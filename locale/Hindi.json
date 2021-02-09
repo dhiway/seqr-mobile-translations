@@ -94,6 +94,13 @@
       "searchHint": "खोज",
       "continueLabel": "का चयन करें और जारी रखें"
     },
+    "hashMarkInformation": {
+      "CreatedBy":"के द्वारा बनाई गई",
+      "IssuedBy": "द्वारा जारी",
+      "CreatedAt": "को निर्मित",
+      "HashLabel": "हश",
+      "Transaction": "लेन-देन"
+    },
     "threat": {
       "typeSafe": "कोई असुरक्षित सामग्री नहीं मिली।",
       "typeNotSecure": "सुरक्षित नहीं - शायद जोखिम भरा",
