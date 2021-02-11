@@ -94,6 +94,13 @@
       "searchHint": "ಹುಡುಕಿ",
       "continueLabel": "ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಮುಂದುವರಿಸಿ"
     },
+    "hashMarkInformation": {
+      "CreatedBy": "ರಚಿಸಿದವರು",
+      "IssuedBy": "ಇವರಿಂದ ನೀಡಲಾಗಿದೆ",
+      "CreatedAt": "ಸೃಷ್ಟಿಯ ದಿನಾಂಕ",
+      "HashLabel": "ಹ್ಯಾಶ್",
+      "Transaction": "ವ್ಯವಹಾರ"
+    },
     "threat": {
       "typeSafe": "ಯಾವುದೇ ಅಸುರಕ್ಷಿತ ವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ.",
       "typeNotSecure": "ಸುರಕ್ಷಿತವಲ್ಲ - ಬಹುಶಃ ಅಪಾಯಕಾರಿ",

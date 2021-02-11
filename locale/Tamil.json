@@ -94,6 +94,13 @@
       "searchHint": "தேடல்",
       "continueLabel": "தேர்ந்தெடுத்து தொடரவும்"
     },
+    "hashMarkInformation": {
+      "CreatedBy": "உருவாக்கியது",
+      "IssuedBy": "வழங்கியது",
+      "CreatedAt": "அன்று உருவாக்கப்பட்ட",
+      "HashLabel": "ஹாஷ்",
+      "Transaction": "பரிவர்த்தனை"
+    },
     "threat": {
       "typeSafe": "பாதுகாப்பற்ற உள்ளடக்கம் எதுவும் கிடைக்கவில்லை.",
       "typeNotSecure": "பாதுகாப்பானது அல்ல - ஒருவேளை ஆபத்தானது",
