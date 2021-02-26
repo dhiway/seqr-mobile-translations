@@ -92,14 +92,18 @@
       "sendEmailBtn": "ఈ మెయిల్ పంపించండి",
       "qrContent": "చెల్లింపు లింక్",
       "searchHint": "వెతకండి",
-      "continueLabel": "ఎంచుకోండి మరియు కొనసాగించండి"
+      "continueLabel": "ఎంచుకోండి మరియు కొనసాగించండి",
+      "submitLabel": "సమర్పించండి",
+      "moreInformation": "లావాదేవీ వివరాలను తనిఖీ చేయండి",
+      "moreRevokedInformation": "#MARK ఉపసంహరించబడింది-తనిఖీ చేయడానికి క్లిక్ చేయండి"
     },
     "hashMarkInformation": {
       "CreatedBy": "సృష్టికర్త",
       "IssuedBy": "జారీ చేసింది",
       "CreatedAt": "సృష్టి తేదీ",
       "HashLabel": "హాష్",
-      "Transaction": "లావాదేవీ"
+      "Transaction": "లావాదేవీ",
+      "Status" : "స్థితి"
     },
     "threat": {
       "typeSafe": "అసురక్షిత కంటెంట్ కనుగొనబడలేదు.",

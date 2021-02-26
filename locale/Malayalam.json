@@ -92,14 +92,18 @@
       "sendEmailBtn": "ഇമെയിൽ അയയ്ക്കുക",
       "qrContent": "പേയ്‌മെന്റ് ലിങ്ക്",
       "searchHint": "തിരയുക",
-      "continueLabel": "തിരഞ്ഞെടുത്ത് തുടരുക"
+      "continueLabel": "തിരഞ്ഞെടുത്ത് തുടരുക",
+      "submitLabel": "സമർപ്പിക്കുക",
+      "moreInformation": "ഇടപാട് വിശദാംശങ്ങൾ പരിശോധിക്കുക",
+      "moreRevokedInformation": "#MARK അസാധുവാക്കി-പരിശോധിക്കാൻ ക്ലിക്കുചെയ്യുക"
     },
     "hashMarkInformation": {
       "CreatedBy": "ഉണ്ടാക്കിയത്",
       "IssuedBy": "പുറപ്പെടുവിച്ചത്",
       "CreatedAt": "സൃഷ്ടിച്ച തീയതി",
       "HashLabel": "ഹാഷ്",
-      "Transaction": "ഇടപാട്"
+      "Transaction": "ഇടപാട്",
+      "Status": "പദവി"
     },
     "threat": {
       "typeSafe": "സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കമൊന്നും കണ്ടെത്തിയില്ല.",

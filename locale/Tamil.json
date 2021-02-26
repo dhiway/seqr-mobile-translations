@@ -92,14 +92,18 @@
       "sendEmailBtn": "மின்னஞ்சல் அனுப்பு",
       "qrContent": "கட்டண இணைப்பு",
       "searchHint": "தேடல்",
-      "continueLabel": "தேர்ந்தெடுத்து தொடரவும்"
+      "continueLabel": "தேர்ந்தெடுத்து தொடரவும்",
+      "submitLabel": "சமர்ப்பிக்கவும்",
+      "moreInformation": "பரிவர்த்தனை விவரங்களை சரிபார்க்கவும்",
+      "moreRevokedInformation": "#MARK திரும்பப் பெறப்பட்டது-சரிபார்க்க கிளிக் செய்க"
     },
     "hashMarkInformation": {
       "CreatedBy": "உருவாக்கியது",
       "IssuedBy": "வழங்கியது",
       "CreatedAt": "அன்று உருவாக்கப்பட்ட",
       "HashLabel": "ஹாஷ்",
-      "Transaction": "பரிவர்த்தனை"
+      "Transaction": "பரிவர்த்தனை",
+      "Status": "நிலை"
     },
     "threat": {
       "typeSafe": "பாதுகாப்பற்ற உள்ளடக்கம் எதுவும் கிடைக்கவில்லை.",
