@@ -108,14 +108,16 @@
       "searchHint": "Search",
       "continueLabel": "Select and Continue",
       "submitLabel": "SUBMIT",
-      "moreInformation": "Check transaction details"
+      "moreInformation": "Check transaction details",
+      "moreRevokedInformation": "#MARK is revoked-Click to Check"
     },
     "hashMarkInformation": {
       "CreatedBy": "Created by",
       "IssuedBy": "Issued by",
       "CreatedAt": "Created On",
       "HashLabel": "Hash",
-      "Transaction": "Transaction"
+      "Transaction": "Transaction",
+      "Status": "Status"
     },
 
     "threat": {

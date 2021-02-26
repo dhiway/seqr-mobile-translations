@@ -92,14 +92,18 @@
       "sendEmailBtn": "ईमेल भेजें",
       "qrContent": "भुगतान लिंक",
       "searchHint": "खोज",
-      "continueLabel": "का चयन करें और जारी रखें"
+      "continueLabel": "का चयन करें और जारी रखें",
+      "submitLabel": "प्रस्तुत",
+      "moreInformation": "लेन-देन का विवरण जांचें",
+      "moreRevokedInformation": "#MARK को निरस्त कर दिया गया है-चेक पर क्लिक करें"
     },
     "hashMarkInformation": {
       "CreatedBy":"के द्वारा बनाई गई",
       "IssuedBy": "द्वारा जारी",
       "CreatedAt": "को निर्मित",
       "HashLabel": "हश",
-      "Transaction": "लेन-देन"
+      "Transaction": "लेन-देन",
+      "Status": "स्थिति"
     },
     "threat": {
       "typeSafe": "कोई असुरक्षित सामग्री नहीं मिली।",

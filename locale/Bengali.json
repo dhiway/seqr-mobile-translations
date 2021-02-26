@@ -92,14 +92,18 @@
       "sendEmailBtn": "ই-মেইল পাঠান",
       "qrContent": "পেমেন্ট লিঙ্ক",
       "searchHint": "অনুসন্ধান করুন",
-      "continueLabel": "নির্বাচন করুন এবং চালিয়ে যান"
+      "continueLabel": "নির্বাচন করুন এবং চালিয়ে যান",
+      "submitLabel": "জমা দিন",
+      "moreInformation": "লেনদেনের বিশদ পরীক্ষা করুন",
+      "moreRevokedInformation": "#মার্জ বাতিল হয়েছে - ক্লিক করতে ক্লিক করুন"
     },
     "hashMarkInformation": {
       "CreatedBy": "দ্বারা সৃষ্টি",
       "IssuedBy": "প্রদান করেছেন",
       "CreatedAt": "সময়ে নির্মিত",
       "HashLabel": "হ্যাশ",
-      "Transaction": "লেনদেন"
+      "Transaction": "লেনদেন",
+      "Status" : "স্থিতি"
     },
     "threat": {
       "typeSafe": "কোনও অনিরাপদ সামগ্রী পাওয়া যায় নি।",
