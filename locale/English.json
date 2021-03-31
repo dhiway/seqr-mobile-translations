@@ -115,7 +115,8 @@
       "IssuedBy": "Issued by",
       "CreatedAt": "Created On",
       "HashLabel": "Hash",
-      "Transaction": "Transaction"
+      "Transaction": "Transaction",
+      "hashMarkPrivate": "This is the private #MARK, you must have the necessary rights to scan and view details in this #MARK,for more information please visit dhiway.com or contact us by mail,using feedback@dhiway.com"
     },
 
     "threat": {
