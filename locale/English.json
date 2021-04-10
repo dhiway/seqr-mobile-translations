@@ -116,7 +116,7 @@
       "CreatedAt": "Created On",
       "HashLabel": "Hash",
       "Transaction": "Transaction",
-      "hashMarkPrivate": "This is the private #MARK, you must have the necessary rights to scan and view details in this #MARK,for more information please visit dhiway.com or contact us by mail,using feedback@dhiway.com"
+      "hashMarkPrivate": "This is the private #MARK, you must have the necessary rights to scan and view details in this #MARK, for more information please visit https://dhiway.com or contact us by mail, using feedback@dhiway.com"
     },
 
     "threat": {
@@ -132,11 +132,11 @@
       "typeErrorFailure": "We're working on getting this fixed as soon as we can. Please try again later.",
       "typeErrorNoConnection": "No Internet Connection. Check your network settings and try again.",
       "hashCodeText": "100% genuine -#MARK Verified",
-      "hashCodeDescription": "Information you send or get through the site is secure. Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
+      "hashCodeDescription": "Information you send or get through the site is secure. Even if you see this message, always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit."
     },
 
     "modal": {
-      "safeDetails": "Information you send or get through the site is secure. Even if you see this message,always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.",
+      "safeDetails": "Information you send or get through the site is secure. Even if you see this message, always be careful when sharing private information. Look at the address bar to make sure you're on the site you want to visit.",
       "notSecureDetails": "This site can't provide a secure connection. Someone might be able to see or change the information you send or get through this site. We suggest you don't enter any private or personal information on this page. If possible, don't use the site.",
       "unSafeDetails": "Visiting this site could trick you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers, or credit cards) or use your computer to do things that you do not intend.",
       "blockChainContent": "BLOCKCHAIN VERIFIED",
