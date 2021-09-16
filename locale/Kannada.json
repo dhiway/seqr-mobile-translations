@@ -92,14 +92,18 @@
       "sendEmailBtn": "ಇಮೇಲ್ ಕಳುಹಿಸಿ",
       "qrContent": "ಪಾವತಿ ಲಿಂಕ್",
       "searchHint": "ಹುಡುಕಿ",
-      "continueLabel": "ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಮುಂದುವರಿಸಿ"
+      "continueLabel": "ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಮುಂದುವರಿಸಿ",
+      "submitLabel": "ಸಲ್ಲಿಸು",
+      "moreInformation": "ವಹಿವಾಟು ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
+      "moreRevokedInformation": "#MARK ಅನ್ನು ಹಿಂತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ-ಪರಿಶೀಲಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
     },
     "hashMarkInformation": {
       "CreatedBy": "ರಚಿಸಿದವರು",
       "IssuedBy": "ಇವರಿಂದ ನೀಡಲಾಗಿದೆ",
       "CreatedAt": "ಸೃಷ್ಟಿಯ ದಿನಾಂಕ",
       "HashLabel": "ಹ್ಯಾಶ್",
-      "Transaction": "ವ್ಯವಹಾರ"
+      "Transaction": "ವ್ಯವಹಾರ",
+      "Status": "ಸ್ಥಿತಿ"
     },
     "threat": {
       "typeSafe": "ಯಾವುದೇ ಅಸುರಕ್ಷಿತ ವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ.",

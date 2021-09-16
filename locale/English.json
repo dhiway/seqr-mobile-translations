@@ -108,7 +108,8 @@
       "searchHint": "Search",
       "continueLabel": "Select and Continue",
       "submitLabel": "SUBMIT",
-      "moreInformation": "Check transaction details"
+      "moreInformation": "Check transaction details",
+      "moreRevokedInformation": "#MARK is revoked-Click to Check"
     },
     "hashMarkInformation": {
       "CreatedBy": "Created by",
@@ -116,6 +117,7 @@
       "CreatedAt": "Created On",
       "HashLabel": "Hash",
       "Transaction": "Transaction",
+      "Status": "Status"
       "hashMarkPrivate": "This is the private #MARK, you must have the necessary rights to scan and view details in this #MARK, for more information please visit https://dhiway.com or contact us by mail, using feedback@dhiway.com"
     },
 
